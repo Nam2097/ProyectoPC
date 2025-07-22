@@ -1,0 +1,1 @@
+En main.cpp está todo el código final, ahí está todo el progrma. Usamos un git push desde replit (https://replit.com/@Maracuya/Proyecto-de-programacion), y añadimos todos los archivos que existían en esa carpeta.
