@@ -254,7 +254,7 @@ struct carrito {
 struct usuario {
   string nombre;
   string contrasena;
-  carrito carrito;
+  carrito carritoUsuario;
   string telefono;
   string direccion;
 };
@@ -332,7 +332,7 @@ void GuardarUsuario(usuario usuario1) {
             << encriptar(usuario1.contrasena) << ","
             << encriptar(usuario1.telefono) << ","
             << encriptar(usuario1.direccion) << endl;
-    GuardarCarrito(usuario1.carrito.productos, nombrearchivo);
+    GuardarCarrito(usuario1.carritoUsuario.productos, nombrearchivo);
     archivo.close();
     // cout << "Usuario guardado correctamente." << endl;
   } else {
@@ -407,7 +407,7 @@ usuario LeerUsuario(string nombrearchivo) {
     getline(ss, contraseña, ',');
     getline(ss, telefono, ',');
     getline(ss, direccion, ',');
-    usuario1.carrito = LeerCarrito(nombrearchivo);
+    usuario1.carritoUsuario = LeerCarrito(nombrearchivo);
     usuario1.nombre = desencriptar(nombre);
     usuario1.contrasena = desencriptar(contraseña);
     usuario1.telefono = desencriptar(telefono);
@@ -1443,7 +1443,7 @@ void imprimirFactura(usuario usuario) {
 
   imprimirSeparador2();
 
-  for (producto producto : usuario.carrito.productos) {
+  for (producto producto : usuario.carritoUsuario.productos) {
     cout << producto.id << "|" << producto.nombre
          << setw((40 - producto.nombre.size())) << "|" << producto.cantidad
          << "   "
@@ -1454,9 +1454,9 @@ void imprimirFactura(usuario usuario) {
   imprimirSeparador2();
 
   cout << "Total sin descuento: " << fixed << setprecision(2)
-       << usuario.carrito.total << endl;
-  cout << "Descuento: " << usuario.carrito.descuento * 100 << "%" << endl;
-  cout << "Total: " << fixed << setprecision(2) << usuario.carrito.totaltotal()
+       << usuario.carritoUsuario.total << endl;
+  cout << "Descuento: " << usuario.carritoUsuario.descuento * 100 << "%" << endl;
+  cout << "Total: " << fixed << setprecision(2) << usuario.carritoUsuario.totaltotal()
        << endl;
 
   imprimirSeparador2();
@@ -1467,7 +1467,7 @@ void imprimirFactura(usuario usuario) {
 
 int main() {
   usuario nuestroUsuario;
-  menu(1, &nuestroUsuario, &(nuestroUsuario.carrito));
+  menu(1, &nuestroUsuario, &(nuestroUsuario.carritoUsuario));
 }
 
 /*
