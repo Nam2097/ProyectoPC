@@ -1,0 +1,9 @@
+Njhxfm,n2345,243536,23456789+jxihikjxwhgcikxh
+B4084600,rings,"Love ring",1650,"yellow gold","Love ring, 18K yellow gold. Width: 5.5mm.",4.
+B4084900,rings,"Love ring",3650,"platinum","Love ring, 950/1000 platinum. Width: 5.5mm.",4.
+B4084800,rings,"Love ring",1650,"pink gold","Love ring, 18K rose gold. Width: 5.5mm.",4.
+B4084700,rings,"Love ring",1770,"white gold","Love ring, 18K white gold. Width: 5.5mm.",4.
+B4097500,rings,"Love ring",5250,"pink gold, diamonds","Love ring, 18K pink gold, set with 6 brilliant-cut diamonds totaling 0.46 carat. Width 5.5 mm.",4.
+B4087800,rings,"Love ring",2760,"pink gold, sapphires, garnets, amethyst","Love ring, 18K rose gold, set with 1 rose sapphire, 1 blue sapphire, 1 yellow sapphire, 1 green garnet, 1 orange garnet and 1 amethyst. Width: 5.5mm.",4.
+B4227800,rings,"Love ring",3250,"yellow gold","Love ring, 18K yellow gold.",4.
+B4227900,rings,"Love ring",3500,"white gold","Love ring, 18K white gold.",4.

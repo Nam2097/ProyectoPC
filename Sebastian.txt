@@ -1,3 +1,2 @@
-Vfcbvwjbq,23456789+,432+844+86,bveg
-B4012500,rings,"1895 wedding band",1110,"platinum","",895.
-B4031300,rings,"1895 wedding band",1110,"yellow gold","",895.
+Vfcbvwjbq,23456789+,432+844+86,23456
+B4087200,rings,"C de Cartier wedding band",1040,"pink gold","C de Cartier wedding band, width 3 mm, 18K pink gold.",25.

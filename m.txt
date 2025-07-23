@@ -1,0 +1,645 @@
+n,n,n,n
+B4084600,rings,"Love ring",1650,"yellow gold","Love ring, 18K yellow gold. Width: 5.5mm.",12.
+B4084900,rings,"Love ring",3650,"platinum","Love ring, 950/1000 platinum. Width: 5.5mm.",12.
+B4084800,rings,"Love ring",1650,"pink gold","Love ring, 18K rose gold. Width: 5.5mm.",12.
+B4084700,rings,"Love ring",1770,"white gold","Love ring, 18K white gold. Width: 5.5mm.",12.
+B4085300,rings,"Love wedding band",2380,"platinum","Love wedding band, 950/1000 platinum. Width: 3.6mm.",12.
+B4032400,rings,"Love ring, 3 diamonds",3500,"yellow gold, diamonds","Love ring, 18K yellow gold, set with 3 brilliant-cut diamonds totaling 0.22 carats. Width: 5.5mm.",12.
+B4087500,rings,"Love ring, 3 diamonds",3500,"pink gold, diamonds","Love ring, 18K rose gold, set with 3 brilliant-cut diamonds totaling 0.22 carats. Width: 5.5mm.",12.
+B4032500,rings,"Love ring, 3 diamonds",3750,"white gold, diamonds","Love ring, 18K white gold, set with 3 brilliant-cut diamonds totaling 0.22 carats. Width: 5.5mm.",12.
+B4056100,rings,"Love wedding band, 1 diamond",2020,"yellow gold, diamond","Love wedding band, 18K yellow gold, set with 1 brilliant-cut diamonds totaling 0.02 carats. Width: 4mm.",12.
+B4050700,rings,"Love wedding band, 1 diamond",2020,"pink gold, diamond","Love wedding band, 18K rose gold, set with 1 brilliant-cut diamonds totaling 0.02 carats. Width: 4mm.",12.
+B4050500,rings,"Love wedding band, 1 diamond",2160,"white gold, diamond","Love wedding band, 18K white gold, set with 1 brilliant-cut diamond totaling 0.02 carats. Width: 4mm.",12.
+B4097500,rings,"Love ring",5250,"pink gold, diamonds","Love ring, 18K pink gold, set with 6 brilliant-cut diamonds totaling 0.46 carat. Width 5.5 mm.",12.
+B4056200,rings,"Love wedding band, 8 diamonds",3550,"yellow gold, diamonds","Love wedding band, 18K yellow gold, set with 8 brilliant-cut diamonds totaling 0.19 carats. Width: 4mm.",12.
+B4050800,rings,"Love wedding band, 8 diamonds",3550,"pink gold, diamonds","Love wedding band, 18K rose gold, set with 8 brilliant-cut diamonds totaling 0.19 carats. Width: 4mm.",12.
+B4050600,rings,"Love wedding band, 8 diamonds",3800,"white gold, diamonds","Love wedding band, 18K white gold, set with 8 brilliant-cut diamond totaling 0.19 carats. Width: 4mm.",12.
+B4218000,rings,"Love ring, SM",4500,"yellow gold, diamonds","Love ring, small model, 18K yellow gold, set with 72 brilliant-cut diamonds totaling 0.19 carats. Width: 2.6mm.",12.
+B4218100,rings,"Love ring, SM",4500,"pink gold, diamonds","Love ring, small model, 18K pink gold, set with 72 brilliant-cut diamonds totaling 0.19 carats. Width: 2.6mm.",12.
+B4218200,rings,"Love ring, SM",4800,"white gold, diamonds","Love ring, small model, 18K white gold, set with 72 brilliant-cut diamonds totaling 0.19 carats. Width: 2.6mm.",12.
+B4083300,rings,"Love wedding band, diamond-paved",6650,"yellow gold, diamonds","Love wedding band, 18K yellow gold, set with 88 brilliant-cut diamonds totaling 0.31 carats. 4mm to 5mm width following metrics.",12.
+B4085800,rings,"Love wedding band, diamond-paved",6650,"pink gold, diamonds","Love wedding band, 18K rose gold, set with 88 brilliant-cut diamonds totaling 0.31 carats. 4 to 5 width following sizes.",12.
+B4083400,rings,"Love wedding band, diamond-paved",7100,"white gold, diamonds","Love wedding band, 18K white gold, set with 88 brilliant-cut diamond totaling 0.31 carats. 4mm to 5mm width following sizes.",12.
+B4087600,rings,"Love ring, diamond-paved",8800,"pink gold, diamonds","Love ring, 18K pink gold, set with 66 brilliant-cut diamonds totaling 0.70 carat. Width: 6.5 mm.",12.
+B4207600,rings,"Love ring, diamond-paved, ceramic",10900,"white gold, ceramic, diamonds","Love ring, 18K white gold, black ceramic, set with 66 brilliant-cut diamonds totaling 0.74 carats. Width: 6.5mm.",12.
+N4210400,rings,"Love ring, diamond-paved",14900,"white gold, diamonds","Love ring, 18K white gold, set with 72 brilliant-cut diamonds totaling 1.26 carats. Width: 6.5mm.",12.
+B4064400,rings,"Love ring, pink sapphires",2380,"pink gold, sapphire","Love ring, 18K rose gold, set with 1 rose sapphire. Width: 5.5mm.",12.
+B4087800,rings,"Love ring",2760,"pink gold, sapphires, garnets, amethyst","Love ring, 18K rose gold, set with 1 rose sapphire, 1 blue sapphire, 1 yellow sapphire, 1 green garnet, 1 orange garnet and 1 amethyst. Width: 5.5mm.",12.
+B4227800,rings,"Love ring",3250,"yellow gold","Love ring, 18K yellow gold.",12.
+B4227900,rings,"Love ring",3500,"white gold","Love ring, 18K white gold.",12.
+B4094300,rings,"Love ring, 6 diamonds",3500,"pink gold, white gold, diamonds","Love ring, 18K rose gold, 18K white gold, set with 6 brilliant-cut diamonds totaling 0.07 carats. White gold width 2.6mm. Rose gold width 3.5mm.",12.
+B4094600,rings,"Love ring, diamond-paved",6450,"pink gold, white gold, diamonds","Love ring, 18K rose gold, 18K white gold, set with 52 brilliant-cut diamonds totaling 0.19 carats. White gold width 2.6mm. Rose gold width 3.5mm.",12.
+N4742200,rings,"Panthère de Cartier ring",20700,"pink gold, diamonds, emeralds, onyx","Panthère de Cartier ring, 18K pink gold, set with 137 brilliant-cut diamonds totaling 1.15 carats, emeralds, onyx.",12.
+B4221600,rings,"Panthère de Cartier ring",7550,"yellow gold, tsavorite garnets, onyx","Panthère de Cartier ring, 18K yellow gold, onyx, black lacquer, set with 2 tsavorite garnets.",12.
+N4722400,rings,"Panthère de Cartier ring",78500,"white gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K white gold, set with 545 brilliant-cut diamonds (1.47 carats), emeralds and onyx.",12.
+H4078300,rings,"Panthère de Cartier ring",132000,"platinum, sapphires, emeralds, diamonds","Ring - platinum, sapphires, emerald eyes, onyx, 461 brilliant-cut diamonds totaling 4.90 carats.",12.
+B4230000,rings,"Panthère de Cartier ring",3150,"pink gold, tsavorite garnets, onyx","Panthère de Cartier ring, 18K pink gold, onyx, set with 2 tsavorite garnets.",12.
+B4230100,rings,"Panthère de Cartier ring",3150,"yellow gold, tsavorite garnets, onyx","Panthère de Cartier ring, 18K yellow gold, onyx, set with 2 tsavorite garnets.",12.
+B4085900,rings,"Panthère de Cartier ring",6000,"yellow gold, onyx, tsavorite garnet","Panthère de Cartier ring, 18K yellow gold. Tsavorite garnets, onyx.",12.
+B4215900,rings,"Panthère de Cartier ring",6000,"pink gold, tsavorite garnets, onyx","Panthère de Cartier ring, 18K pink gold, tsavorite garnets, onyx.",12.
+B4230800,rings,"Panthère de Cartier ring",6100,"yellow gold, tsavorite garnets, onyx","Panthère de Cartier ring, 18K yellow gold, onyx, black lacquer, set with 2 tsavorite garnets.",12.
+B4099500,rings,"Panthère de Cartier ring",6450,"white gold, tsavorite garnets, onyx","Panthère de Cartier ring, 18K white gold, tsavorite garnets, onyx.",12.
+B4096700,rings,"Panthère de Cartier ring",7550,"yellow gold, lacquer, diamonds, tsavorite garnet","Panthère de Cartier ring, 18K yellow gold, black lacquer, set with 5 brilliant-cut diamonds totaling 0.02 carat. Tsavorite garnet.",12.
+B4221400,rings,"Panthère de Cartier ring",7550,"pink gold, tsavorite garnets, onyx, black lacquer, diamonds","Panthère de Cartier ring, 18K pink gold, set with 5 brilliant-cut diamonds totaling 0.02 carats. Tsavorite garnets, onyx, black lacquer.",12.
+B4221700,rings,"Panthère de Cartier ring",7550,"pink gold, tsavorite garnets, onyx","Panthère de Cartier ring, 18K pink gold, onyx, black lacquer, set with 2 tsavorite garnets.",12.
+N4765700,rings,"Panthère de Cartier ring",9850,"pink gold, onyx, emeralds, diamonds","Panthère de Cartier ring, 18K pink gold, onyx, set with 2 emeralds and 72 brilliant-cut diamonds totaling 0.68 carat.",12.
+N4765800,rings,"Panthère de Cartier ring",9850,"yellow gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K yellow gold, onyx, set with 2 emeralds and 72 brilliant-cut diamonds totaling 0.68 carat.",12.
+N4765900,rings,"Panthère de Cartier ring",10600,"white gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K white gold, onyx, set with 2 emeralds and 72 brilliant-cut diamonds totaling 0.68 carat.",12.
+B4074100,rings,"Panthère de Cartier ring",11200,"yellow gold, lacquer, tsavorite garnet, onyx","Panthère de Cartier ring, 18K yellow gold and black lacquer. Tsavorite garnets, onyx.",12.
+N4765500,rings,"Panthère de Cartier ring",12900,"yellow gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K yellow gold, onyx, set with 2 emeralds and 112 brilliant-cut diamonds totaling 0.95 carat.",12.
+N4744000,rings,"Panthère de Cartier ring",13600,"yellow gold, onyx, tsavorite garnets, diamonds","Panthère de Cartier ring, 18K yellow gold, set with 17 brilliant-cut diamonds totaling 0.04 carats. Tsavorite garnets, onyx.",12.
+N4765600,rings,"Panthère de Cartier ring",13900,"white gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K white gold, onyx, set with 2 emeralds and 112 brilliant-cut diamonds totaling 0.95 carat.",12.
+N4244700,rings,"Panthère de Cartier ring",19500,"white gold, diamonds, emeralds, onyx","Panthère de Cartier ring, 18K white gold, set with 81 brilliant-cut diamonds totaling 0.75 carat. Emeralds, onyx.",12.
+N4722500,rings,"Panthère de Cartier ring",20000,"yellow gold, tsavorite garnets, onyx","Panthère de Cartier ring, 18K yellow gold, tsavorite garnets, onyx.",12.
+N4225000,rings,"Panthère de Cartier ring",20700,"yellow gold, diamonds, emeralds, onyx","Panthère de Cartier ring, 18K yellow gold, set with 137 brilliant-cut diamonds totaling 1.15 carats. Emeralds, onyx.",12.
+N4730900,rings,"Panthère de Cartier ring",21400,"non-rhodiumized white gold, tsavorite garnets, onyx","Panthère de Cartier ring, non-rhodiumized 18K white gold, set with 2 tsavorite garnets eyes and an onyx nose.",12.
+N4224900,rings,"Panthère de Cartier ring",22200,"white gold, diamonds, emeralds, onyx","Panthère de Cartier ring, 18K white gold, set with 137 brilliant-cut diamonds totaling 1.15 carats. Emeralds, onyx.",12.
+N4193100,rings,"Panthère de Cartier ring",25300,"yellow gold, lacquer, peridots, onyx","Panthère de Cartier ring, 18K yellow gold and black lacquer. Peridots, onyx.",12.
+N4744100,rings,"Panthère de Cartier ring",25900,"white gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K white gold, set with 171 brilliant-cut diamonds totaling 0.89 carats. Emeralds, onyx.",12.
+N4767700,rings,"Panthère de Cartier ring",35700,"yellow gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K yellow gold, onyx, set with 2 emeralds and 242 brilliant-cut diamonds totaling 2.21 carats.",12.
+N4225200,rings,"Panthère de Cartier ring",37100,"white gold, diamonds, emeralds, onyx","Panthère de Cartier ring, 18K white gold, set with 285 diamonds totaling 2.39 carats. Emeralds, onyx.",12.
+N4748900,rings,"Panthère de Cartier ring",37600,"white gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K white gold, onyx, set with 2 emeralds and 264 brilliant-cut diamonds totaling 1.66 carats.",12.
+N4767800,rings,"Panthère de Cartier ring",38200,"white gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K white gold, onyx, set with 2 emeralds and 242 brilliant-cut diamonds totaling 2.21 carats.",12.
+H4179600,rings,"Panthère de Cartier ring",171000,"white gold, emeralds, onyx, diamonds","Ring - white gold, pear-shaped emerald eyes, onyx, brilliant-cut diamonds.",12.
+H4183300,rings,"Panthère de Cartier ring",217000,"platinum, sapphires, emeralds, onyx, diamonds","Ring - 950‰ platinum, 700 brilliant-cut diamonds totaling 5.05 carats, sapphires, emeralds, onyx.",12.
+N4211000,rings,"Panthère de Cartier ring",55500,"white gold, diamonds, emeralds, onyx","Panthère de Cartier ring, 18K white gold, set with 365 brilliant-cut diamonds totaling 2.55 carats. Emeralds, onyx.",12.
+H4275500,rings,"Panthère de Cartier ring",57000,"white gold, emeralds, onyx, diamonds","Panthère de Cartier ring, 18K white gold, set with 292 brilliant-cut diamonds (1.63 carats), emeralds and onyx.",12.
+H4226300,rings,"Panthère de Cartier ring",183000,"platinum, emeralds, onyx, diamonds","Ring - 950‰ platinum, 700 brilliant-cut diamonds totaling 5.05 carats, emeralds, onyx.",12.
+B4083200,rings,"Caresse d’Orchidées par Cartier ring",4000,"pink gold, diamonds","Caresse d'Orchidées par Cartier ring, 18K pink gold, set with 2 brilliant-cut diamonds totaling 0.03 carat.",12.
+N4251300,rings,"Les Oiseaux Libérés ring",47900,"white gold, sapphires, emeralds, onyx, black ceramic, diamonds","Les Oiseaux Libérés ring - white gold, sapphires, emerald eyes, ceramic, onyx, brilliant-cut diamonds",12.
+H4312000,rings,"Les Oiseaux Libérés ring",65000,"white gold, sapphires, emeralds, mother-of-pearl, diamonds","Les Oiseaux Libérés ring, 18K white gold, gray mother-of-pearl, emeralds, sapphire beads, set with 147 brilliant-cut diamonds totaling 1.00 carat.",12.
+H4300800,rings,"Les Oiseaux Libérés ring",68500,"white gold, sapphires, emeralds, mother-of-pearl, diamonds","Les Oiseaux Libérés ring, 18K white gold, gray mother-of pearl, emerald, sapphire, set with 446 brilliant-cut diamonds totaling 2.68 carats.",12.
+H4317000,rings,"Les Oiseaux Libérés ring",78000,"white gold, emeralds, diamonds","Les Oiseaux Libérés ring, 18K white gold, emeralds, set with 223 brilliant-cut diamonds totaling 3.50 carats.",12.
+H4317100,rings,"Les Oiseaux Libérés ring",85500,"yellow gold, emeralds, onyx, diamonds","Les Oiseaux Libérés ring, 18K yellow gold, emeralds, onyx, set with 175 brilliant-cut diamonds totaling 4.10 carats.",12.
+H4226000,rings,"Faune et Flore de Cartier ring",143000,"platinum, emeralds, diamonds","Ring - 950‰ platinum, 749 brilliant-cut diamonds totaling 5.45 carats, emeralds.",12.
+N4747200,rings,"Cactus de Cartier ring",11800,"yellow gold, diamonds","Cactus de Cartier ring, 18K yellow gold, set with 6 brilliant-cut diamonds totaling 0.27 carats.",12.
+B4220100,rings,"Cactus de Cartier wedding band",3500,"yellow gold, diamonds","Cactus de Cartier wedding band, 18K yellow gold, set with 15 brilliant-cut diamonds totaling 0.32 carats.",12.
+B4220300,rings,"Cactus de Cartier wedding band",3500,"pink gold, diamonds","Cactus de Cartier wedding band, 18K pink gold, set with 15 brilliant-cut diamonds totaling 0.3 carats.",12.
+B4220200,rings,"Cactus de Cartier wedding band",3750,"white gold, diamonds","Cactus de Cartier wedding band, 18K white gold, set with 15 brilliant-cut diamonds totaling 0.32 carats.",12.
+B4224500,rings,"Cactus de Cartier ring",4350,"pink gold, diamond","Cactus de Cartier ring, 18K pink gold, set with 1 brilliant-cut diamond totaling 0.018 carats.",12.
+B4221500,rings,"Cactus de Cartier ring",5700,"pink gold, diamond","Cactus de Cartier ring, 18K pink gold, set with 1 brilliant-cut diamond totaling 0.018 carats.",12.
+N4748500,rings,"Cactus de Cartier ring",15400,"pink gold, diamonds","Cactus de Cartier ring, 18K pink gold, set with 19 brilliant-cut diamonds totaling 0.47 carats.",12.
+N4747300,rings,"Cactus de Cartier ring",18500,"yellow gold, diamonds","Cactus de Cartier ring, 18K yellow gold, set with 12 brilliant-cut diamonds totaling 0.41 carat.",12.
+N4748300,rings,"Cactus de Cartier ring",18500,"pink gold, spinels, diamonds","Cactus de Cartier ring, 18K pink gold, set with 9 spinels and 5 brilliant-cut diamonds totaling 0.09 carats.",12.
+N4753500,rings,"Cactus de Cartier ring",28400,"yellow gold, diamonds","Cactus de Cartier ring, 18K yellow gold, set with 86 brilliant-cut diamonds totaling 2.03 carats.",12.
+H4323300,rings,"Cactus de Cartier ring",74500,"yellow gold, emeralds, carnelians, diamonds","Cactus de Cartier ring, 18K yellow gold, emeralds, carnelians, set with a brilliant-cut diamond of 0.10 carats.",12.
+N4747400,rings,"Cactus de Cartier ring",14800,"yellow gold, diamonds","Diabolo de Cartier ring, 18K yellow gold, set with 6 brilliant-cut diamonds totaling 0.40 carat.",12.
+H4347000,rings,"Cactus de Cartier ring",39900,"yellow gold, chrysoprase, lapis lazuli, diamonds","Cactus de Cartier ring, 18K yellow gold, set with 16 chrysoprases, 14 lapis lazulis and 36 brilliant-cut diamonds totaling 0.53 carats.",12.
+B4038900,rings,"Trinity ring, classic",12400,"white gold, yellow gold, pink gold, diamonds","Trinity ring, medium model, 18K white gold, 18K rose gold, 18K yellow gold, set with 144 brilliant-cut diamonds totaling 0.99 carats. Width: 4mm.",12.
+B4052700,rings,"Trinity ring, classic",1340,"white gold, yellow gold, pink gold","Trinity ring, medium model, 18K white gold, 18K rose gold, 18K yellow gold. Width: 3.53mm.",12.
+N4210700,rings,"Trinity ring, classic",33500,"white gold, yellow gold, pink gold, diamonds","Trinity ring, medium model, 18K white gold, 18K pink gold, 18K yellow gold, set with 432 brilliant-cut diamonds totaling 2.98 carats.",12.
+B4095600,rings,"Trinity ring, classic ceramic",1260,"white gold, ceramic","Trinity, medium model ring, 18K white gold, black ceramic. TTO ring width and 3.5mm ceramic ring",12.
+B4052200,rings,"Trinity wedding band",1290,"white gold, yellow gold, pink gold","Trinity wedding band, width 3.5 mm, 18K pink gold, 18K white gold, 18K yellow gold.",12.
+B4052100,rings,"Trinity wedding band",1770,"white gold, yellow gold, pink gold","Trinity wedding band, width 4.8 mm, 18K pink gold, 18K white gold, 18K yellow gold.",12.
+B4222500,rings,"Trinity wedding band",1890,"white gold","Trinity de Cartier wedding band, width 4.8 mm, 18K white gold.",12.
+B4088500,rings,"Trinity ring",2320,"white gold, yellow gold, pink gold, diamonds","Trinity ring, medium model, 18K white gold, 18K rose gold, 18K yellow gold, set with 5 brilliant-cut diamonds totaling 0.04 carats. Width: 3.5mm.",12.
+B4052800,rings,"Trinity ring, LM",2390,"white gold, yellow gold, pink gold","Trinity ring, large model, 18K white gold, 18K rose gold, 18K yellow gold. Width: 5.2mm.",12.
+B4038800,rings,"Trinity ring",3850,"white gold, yellow gold, pink gold, diamonds","Trinity ring, medium model, 18K white gold, 18K rose gold, 18K yellow gold, set with 15 brilliant-cut diamonds totaling 0.18 carats. Width: 4mm.",12.
+B4052900,rings,"Trinity wedding band",3950,"white gold, yellow gold, pink gold, diamonds","Trinity wedding band, width 3.5 mm, 18K pink gold, 18K white gold, 18K yellow gold, set with 53 brilliant-cut diamonds totaling 0.23 carat.",12.
+B4099300,rings,"Trinity Ruban wedding band",4350,"platinum, diamond","Trinity Ruban wedding band, 1 row, 950‰ platinum, set with 23 brilliant-cut diamonds totaling 0.22 carat. Width: 2.0 mm.",12.
+B4095500,rings,"Trinity ring, ceramic, SM",6300,"white gold, ceramic, diamonds","Trinity ring, small model, 18K white gold, black ceramic, set with 100 brilliant-cut diamonds totaling 0.45 carats. Width of the 3 rings 2.9mm.",12.
+B4086000,rings,"Trinity ring, small model",6450,"white gold, yellow gold, pink gold, diamonds","Trinity ring, small model, 18K white gold, 18K pink gold, 18K yellow gold, set with 102 brilliant-cut diamonds totaling 0.46 carat. All-gold ring width: 2.8 mm. Paved ring width: 2.9 mm.",12.
+B4099400,rings,"Trinity Ruban wedding band",7050,"platinum, diamond","Trinity Ruban wedding band, 2 rows, 950‰ platinum, set with 49 brilliant-cut diamonds totaling 0.49 carats. Width: 2.5 mm.",12.
+N4227600,rings,"Trinity ring, small model",17700,"white gold, yellow gold, pink gold, diamonds","Trinity ring, small model, 18K white gold, 18K rose gold, 18K yellow gold, set with 300 brilliant-cut diamonds totaling 1.35 carats. Width: 2.9mm.",12.
+N4227100,rings,"Trinity ring, LM",18200,"white gold, ceramic, platinum, diamonds","Trinity ring, large model, 18K white gold, black ceramic, 950‰ platinum, set with 129 brilliant-cut diamonds totaling 1.54 carats.",12.
+N4242700,rings,"Trinity ring, ceramic, LM",18200,"white gold, diamonds, ceramic","Trinity ring, large model, 18K white gold, black ceramic, set with 129 brilliant-cut diamonds totaling 1.54 carats.",12.
+N4210800,rings,"Trinity ring, LM",43300,"white gold, yellow gold, pink gold, diamonds","Trinity ring, large model, 18K white gold, 18K pink gold, 18K yellow gold, set with 387 brilliant-cut diamonds totaling 4.64 carats.",12.
+B4057700,rings,"1895 wedding band",1300,"platinum, diamond","1895 wedding band, width 2.6 mm, platinum 950‰, set with a brilliant-cut diamond of 0.01 carat.",12.
+B4059600,rings,"1895 wedding band",1380,"yellow gold","1895 wedding band, width 5 mm, 18K yellow gold.",12.
+B4036700,rings,"1895 wedding band",1550,"platinum","1895 wedding band, width 3.5 mm, platinum 950‰.",12.
+B4058300,rings,"1895 wedding band",1580,"platinum, diamonds","1895 wedding band, width 2.6 mm, platinum 950‰, set with 3 brilliant-cut diamonds totaling 0.03 carat.",12.
+B4036800,rings,"1895 wedding band",1770,"platinum","1895 wedding band, width 4 mm, platinum 950‰.",12.
+B4071800,rings,"1895 wedding band",2130,"platinum, diamond","1895 wedding band, width 3.5 mm, platinum 950‰, set with a brilliant-cut diamond of 0.04 carat.",12.
+B4059500,rings,"1895 wedding band",2210,"platinum","1895 wedding band, width 5 mm, platinum 950‰.",12.
+B4071400,rings,"1895 wedding band",4200,"platinum, diamonds","1895 wedding band, width 2.6 mm, platinum 950‰, set with 19 brilliant-cut diamonds totaling 0.27 carat.",12.
+B4077900,rings,"Étincelle de Cartier wedding band",4850,"white gold, diamonds","Étincelle de Cartier wedding band, 18K white gold, set with 38 brilliant-cut diamonds totaling 0.47 carats. Width: 2 mm.",12.
+B4093900,rings,"Cartier d'Amour wedding band",1220,"platinum","Cartier d'Amour wedding band, platinum 950‰. Width 2.5 mm",12.
+B4071900,rings,"Ballerine wedding band",1330,"platinum","Ballerine wedding band, width 2.1 mm, platinum 950‰.",12.
+B4086400,rings,"C de Cartier wedding band",1330,"pink gold, diamond","C de Cartier wedding band, width 3 mm, 18K pink gold, set with a brilliant-cut diamond of 0.03 carat.",12.
+B4232300,rings,"C de Cartier wedding band",1330,"pink gold, diamond","C de Cartier wedding band, 18K pink gold, set with a brilliant-cut diamond of 0.02 carats. Width: 3 mm.",12.
+B4051100,rings,"Logo de Cartier wedding band",1380,"pink gold","Logo de Cartier ring, 18K pink gold.",12.
+B4098000,rings,"C de Cartier wedding band",1380,"pink gold","C de Cartier wedding band, width 4 mm, 18K pink gold.",12.
+B4092800,rings,"Ballerine wedding band",1460,"platinum","Ballerine curved wedding band, width 2 mm, platinum 950‰.",12.
+B4050900,rings,"Logo de Cartier wedding band",1480,"white gold","Logo de Cartier ring, 18K white gold.",12.
+B4077700,rings,"Ballerine wedding band",1540,"platinum, diamond","Ballerine wedding band, width 2.1 mm, platinum 950‰, set with a brilliant-cut diamond of 0.01 carat.",12.
+B4232400,rings,"C de Cartier wedding band",1650,"platinum","C de Cartier wedding band, width 3 mm, platinum 950‰.",12.
+B4054000,rings,"C de Cartier wedding band",1660,"platinum","C de Cartier wedding band, width 3 mm, platinum 950‰.",12.
+B4210700,rings,"C de Cartier wedding band",1680,"pink gold, diamond","C de Cartier wedding band, width 4 mm, 18K pink gold, set with a brilliant-cut diamond of 0.03 carats.",12.
+B4092900,rings,"Ballerine wedding band",1720,"platinum, diamonds","Ballerine curved wedding band, width 2 mm, platinum 950‰, set with 3 brilliant-cut diamonds totaling 0.01 carats.",12.
+B4051300,rings,"C de Cartier wedding band",2130,"platinum, diamond","C de Cartier wedding band, width 3 mm, platinum 950‰, set with a brilliant-cut diamond of 0.03 carat.",12.
+B4232200,rings,"C de Cartier wedding band",2130,"platinum, diamond","C de Cartier wedding band, 950‰ platinum, set with a brilliant-cut diamond of 0.02 carats. Width: 3 mm.",12.
+B4098100,rings,"C de Cartier wedding band",2210,"platinum","C de Cartier wedding band, width 4 mm, platinum 950‰.",12.
+B4210500,rings,"Étincelle de Cartier wedding band",2410,"pink gold, diamonds","Étincelle de Cartier wedding band, 18K pink gold, set with 49 brilliant-cut diamonds totaling 0.22 carats. 1.52 mm wide. Also available as a midi ring.",12.
+B4212000,rings,"Étincelle de Cartier wedding band",2410,"yellow gold, diamonds","Étincelle de Cartier wedding band, 18K yellow gold, set with 49 brilliant-cut diamonds totaling 0.22 carats. 1.52 mm wide. Also available as a midi ring.",12.
+B4224200,rings,"Cartier d'Amour wedding band",2430,"platinum","Cartier d'Amour wedding band, width 5 mm, 950‰ platinum.",12.
+B4210400,rings,"Étincelle de Cartier wedding band",2580,"white gold, diamonds","Étincelle de Cartier wedding band, 18K white gold, set with 49 brilliant-cut diamonds totaling 0.22 carats. 1.52 mm wide. Also available as a midi ring.",12.
+B4077800,rings,"C de Cartier wedding band",2610,"platinum, diamonds","C de Cartier wedding band, width 3 mm, platinum 950‰, set with 2 brilliant-cut diamonds totaling 0.07 carat.",12.
+B4093000,rings,"Ballerine wedding band",2680,"platinum, diamonds","Ballerine curved wedding band, width 2 mm, platinum 950‰, set with 27 brilliant-cut diamonds totaling 0.09 carats.",12.
+B4098200,rings,"C de Cartier wedding band",2680,"platinum, diamond","C de Cartier wedding band, width 4 mm, platinum 950‰, set with a brilliant-cut diamond of 0.03 carats.",12.
+B4210100,rings,"C de Cartier wedding band",2760,"platinum","C de Cartier wedding band, width 5 mm, 950‰ platinum.",12.
+B4224300,rings,"Cartier d'Amour wedding band",2910,"platinum","Cartier d'Amour wedding band, width 6 mm, 950‰ platinum.",12.
+B4216700,rings,"Etincelle de Cartier ring",2990,"pink gold, diamonds","Étincelle de Cartier ring, 18K pink gold, set with an emerald-cut diamond center stone of 0.18 carat and 22 brilliant-cut diamonds totaling 0.10 carat.",12.
+B4230400,rings,"Etincelle de Cartier ring",2990,"pink gold, diamonds","Étincelle de Cartier ring, 18K pink gold, set with an emerald-cut diamond center stone of 0.16 carat and 22 brilliant-cut diamonds totaling 0.10 carat.",12.
+B4232900,rings,"Etincelle de Cartier ring",2990,"yellow gold, diamonds","Étincelle de Cartier ring, 18K yellow gold, set with a princess-cut diamond center stone of 0.16 carats, and set with brilliant-cut pavé diamonds.",12.
+B4221800,rings,"Étincelle de Cartier wedding band",3200,"pink gold, diamonds","Etincelle de Cartier wedding band, 18K pink gold, set with 22 brilliant-cut diamonds totaling 0.27 carat. Width 2.0 mm.",12.
+B4225700,rings,"Etincelle de Cartier ring",3200,"white gold, diamonds","Étincelle de Cartier ring, 18K white gold, set with an emerald-cut diamond center stone of 0.18 carat and 22 brilliant-cut diamonds totaling 0.10 carat.",12.
+B4210200,rings,"C de Cartier wedding band",3350,"platinum, diamond","C de Cartier wedding band, width 5 mm, 950‰ platinum, set with a brilliant-cut diamond of 0.04 carats.",12.
+B4221900,rings,"Étincelle de Cartier wedding band",3500,"platinum, diamonds","Etincelle de Cartier wedding band, 950‰ platinum, set with 22 brilliant-cut diamonds totaling 0.27 carat. Width 2.00 mm.",12.
+B4232000,rings,"Étincelle de Cartier wedding band",4400,"platinum, sapphires, diamonds","Étincelle de Cartier wedding band, 950‰ platinum, set with 19 brilliant-cut diamonds totaling 0.24 carat and 19 brilliant-cut sapphires totaling 0.34 carat. Width: 2 mm.",12.
+B4223200,rings,"Etincelle de Cartier ring",4500,"white gold, diamonds","Etincelle de Cartier ring, 18K white gold, set with 26 brilliant-cut diamonds totaling 0.36 carats.",12.
+B4086300,rings,"Étincelle de Cartier wedding band",4550,"yellow gold, diamonds","Étincelle de Cartier wedding band, 18K yellow gold, set with 38 brilliant-cut diamonds totaling 0.47 carats. Width: 2 mm.",12.
+B4086500,rings,"Étincelle de Cartier wedding band",4550,"pink gold, diamonds","Étincelle de Cartier wedding band, 18K pink gold, set with 38 brilliant-cut diamonds totaling 0.47 carats. Width: 2 mm.",12.
+B4225000,rings,"Etincelle de Cartier ring",5000,"pink gold, diamonds","Etincelle de Cartier ring, 18K pink gold, set with 25 brilliant-cut diamonds totaling 0.48 carats.",12.
+B4072000,rings,"Ballerine wedding band",5050,"platinum, diamonds","Ballerine wedding band, width 2.4 mm, platinum 950‰, set with 39 brilliant-cut diamonds totaling 0.38 carat.",12.
+B4224900,rings,"Etincelle de Cartier ring",5350,"white gold, diamonds","Etincelle de Cartier ring, 18K white gold, set with 25 brilliant-cut diamonds totaling 0.48 carats.",12.
+B4216400,rings,"Étincelle de Cartier wedding band",5450,"pink gold, diamonds","Etincelle de Cartier wedding band, 18K pink gold, set with 16 brilliant-cut diamonds totaling 0.51 carat. Width 2.6 mm.",12.
+B4216300,rings,"Étincelle de Cartier wedding band",5950,"platinum, diamonds","Etincelle de Cartier wedding band, 950‰ platinum, set with 16 brilliant-cut diamonds totaling 0.51 carat. Width 2.6 mm.",12.
+B4095700,rings,"Etincelle de Cartier ring",6100,"pink gold, diamonds","Etincelle de Cartier ring, 18K pink gold, set with 17 brilliant-cut diamonds totaling 0.48 carats.",12.
+B4095800,rings,"Etincelle de Cartier ring",6550,"white gold, diamonds","Étincelle de Cartier ring, 18K white gold, set with 17 brilliant-cut diamonds totaling 0.49 carat.",12.
+B4223000,rings,"Etincelle de Cartier ring",6650,"pink gold, diamonds","Etincelle de Cartier ring, 18K pink gold, set with 46 brilliant-cut diamonds totaling 0.63 carats.",12.
+B4223100,rings,"Etincelle de Cartier ring",7100,"white gold, diamonds","Etincelle de Cartier ring, 18K white gold, set with 46 brilliant-cut diamonds totaling 0.63 carats.",12.
+B4220500,rings,"Étincelle de Cartier ring, small model",7650,"yellow gold, diamonds","Étincelle de Cartier ring, small model, 18K yellow gold, set with 55 brilliant-cut diamonds totaling 1.00 carat.",12.
+B4220600,rings,"Étincelle de Cartier ring, small model",7650,"pink gold, diamonds","Étincelle de Cartier ring, small model, 18K pink gold, set with 55 brilliant-cut diamonds totaling 1.00 carat.",12.
+B4232100,rings,"Étincelle de Cartier wedding band",7700,"platinum, sapphires, diamonds","Étincelle de Cartier wedding band, 950‰ platinum, set with 14 brilliant-cut diamonds totaling 0.45 carats and 14 brilliant-cut sapphires totaling 0.63 carats. Width 2.6 mm.",12.
+B4087000,rings,"Étincelle de Cartier wedding band",7800,"yellow gold, diamonds","Étincelle de Cartier wedding band, 18K yellow gold, set with 29 brilliant-cut diamonds totaling 0.94 carats. Width: 2.6 mm.",12.
+B4210600,rings,"Étincelle de Cartier wedding band",7800,"pink gold, diamonds","Étincelle de Cartier wedding band, 18K pink gold, set with 29 brilliant-cut diamonds totaling 0.94 carats. Width: 2.6 mm.",12.
+B4216800,rings,"Étincelle de Cartier ring, small model",8150,"white gold, diamonds","Étincelle de Cartier ring, small model, 18K white gold, set with 55 brilliant-cut diamonds totaling 1.00 carat.",12.
+B4087100,rings,"Étincelle de Cartier wedding band",8550,"platinum, diamonds","Étincelle de Cartier wedding band, 950‰ platinum, set with 29 brilliant-cut diamonds totaling 0.94 carats. Width: 2.6 mm.",12.
+N4766000,rings,"Etincelle de Cartier ring",8750,"pink gold, diamonds","Étincelle de Cartier ring, 18K pink gold, set with 52 brilliant-cut pavé diamonds totaling 0.81 carats.",12.
+B4216600,rings,"Étincelle de Cartier wedding band",8950,"pink gold, diamonds","Etincelle de Cartier wedding band, 18K pink gold, set with 14 brilliant-cut diamonds totaling 0.94 carat. Width 3.5 mm.",12.
+N4753200,rings,"Etincelle de Cartier ring",9350,"white gold, diamonds","Étincelle de Cartier ring, 18K white gold, set with 52 brilliant-cut diamonds totaling 0.81 carat.",12.
+N4722700,rings,"Cartier Destinée wedding band",9650,"pink gold, diamonds","Cartier Destinée wedding band, width 3.27 mm, 18K pink gold, set with 22 brilliant-cut diamonds totaling 1.34 carats.",12.
+B4091200,rings,"Etincelle de Cartier ring",9800,"pink gold, diamonds","Étincelle de Cartier ring, 18K pink gold, set with 69 brilliant-cut diamonds totaling 1.33 carats.",12.
+B4192300,rings,"Etincelle de Cartier ring",9800,"yellow gold, diamonds","Étincelle de Cartier ring, 18K yellow gold, set with 69 brilliant-cut diamonds totaling 1.33 carats.",12.
+B4216500,rings,"Étincelle de Cartier wedding band",9850,"platinum, diamonds","Etincelle de Cartier wedding band, 950‰ platinum, set with 14 brilliant-cut diamonds totaling 0.94 carats. Width 3.5 mm.",12.
+N4243000,rings,"Etincelle de Cartier ring",10300,"white gold, diamonds","Étincelle de Cartier ring, 18K white gold, set with 81 brilliant-cut diamonds totaling 0.66 carat.",12.
+B4192400,rings,"Etincelle de Cartier ring",10500,"white gold, diamonds","Étincelle de Cartier ring, 18K white gold, set with 69 brilliant-cut diamonds totaling 1.33 carats.",12.
+N4127300,rings,"Cartier Destinée wedding band",10700,"platinum, diamonds","Cartier Destinée wedding band, width 3.3 mm, platinum 950‰, set with 22 brilliant-cut diamonds totaling 1.34 carats.",12.
+N4752700,rings,"Reflection de Cartier ring",12500,"white gold, diamonds","Reflection de Cartier ring, 18K white gold, set with 1 troidia-cut diamond, 1 princess-cut diamond and 6 baguette-cut diamonds totaling 0.88 carats.",12.
+N4753300,rings,"Etincelle de Cartier ring",15600,"white gold, diamonds","Étincelle de Cartier ring, 18K white gold, set with 88 brilliant-cut diamonds totaling 1.06 carat.",12.
+N4748100,rings,"Coup d'Éclat de Cartier ring",18600,"yellow gold, diamonds","Coup d'Eclat de Cartier ring, 18K yellow gold, set with 55 brilliant-cut diamonds totaling 1.04 carats.",12.
+N4744800,rings,"Coup d'Éclat de Cartier ring",19800,"white gold, diamonds","Coup d'Éclat de Cartier ring, 18K white gold, set with 55 brilliant-cut diamonds totaling 1.04 carats.",12.
+N4752500,rings,"Reflection de Cartier ring",23000,"white gold, diamonds","Reflection de Cartier ring, 18K white gold, set with 11 baguette-cut diamonds totaling 1.24 carats and 22 brilliant-cut diamonds totaling 1.05 carats.",12.
+N4748200,rings,"Coup d'Éclat de Cartier ring",30800,"yellow gold, diamonds","Coup d'Eclat de Cartier ring, 18K yellow gold, set with 189 brilliant-cut diamonds totaling 1.56 carats.",12.
+N4745100,rings,"Coup d'Éclat de Cartier ring",35800,"white gold, diamonds","Coup d'Éclat de Cartier ring, 18K white gold, set with 87 brilliant-cut diamonds totaling 1.45 carats.",12.
+N4745000,rings,"Coup d'Éclat de Cartier ring",37000,"white gold, diamonds","Coup d'Éclat de Cartier ring, 18K white gold, set with 171 brilliant-cut diamonds totaling 2.58 carats.",12.
+H4315200,rings,"Reflection de Cartier ring",38800,"white gold, diamonds","Reflection de Cartier ring, 18K white gold, set with 16 brilliant-cut diamonds totaling 1.02 carats, and 12 baguette-cut diamonds totaling 1.13 carats.",12.
+N4745200,rings,"Coup d'Éclat de Cartier ring",44400,"white gold, diamonds","Coup d'Éclat de Cartier ring, 18K white gold, set with 302 brilliant-cut diamonds totaling 2.32 carats.",12.
+N4249900,rings,"Reflection de Cartier wedding band",53500,"white gold, diamonds","Reflection de Cartier wedding band, 18K white gold, set with 36 brilliant-cut diamonds totaling 1.58 carats, and with 18 baguette-cut diamonds totaling 1.94 carats",12.
+N4752200,rings,"Coup d'Éclat de Cartier ring",16800,"yellow gold, diamonds","Coup d'Eclat de Cartier ring, 18K yellow gold, set with 40 brilliant-cut diamonds totaling 0.71 carats.",12.
+H4345500,rings,"Essential Lines ring",45600,"white gold, diamonds","Essential Lines ring, 18K white gold, set with 120 brilliant-cut diamonds totaling 7.16 carats.",12.
+H4333700,rings,"Reflection de Cartier ring",80000,"white gold, diamonds","Large model Reflection de Cartier ring, 18K white gold, set with 36 baguette-cut diamonds totaling 4.35 carats, 3 princess-cut diamonds totaling 0.51 carats and 2 troidia-cut diamonds totaling 0.45 carats.",12.
+B4094800,rings,"Juste un Clou ring",3800,"pink gold, diamonds","Juste un Clou ring, 18K rose gold, set with 22 brilliant-cut diamonds totaling 0.13 carats. Width: 2.65mm.",12.
+B4216900,rings,"Juste un Clou ring",3800,"yellow gold, diamonds","Juste un Clou ring, 18K yellow gold, set with 22 brilliant-cut diamonds totaling 0.13 carats. Width: 2.65mm.",12.
+B4226000,rings,"Juste un Clou ring SM",1200,"white gold","Juste un Clou ring, small model, 18K white gold. Width: 1.8mm.",12.
+B4092500,rings,"Juste un Clou ring",2270,"pink gold","Juste un Clou ring, 18K rose gold. Width: 2.65mm.",12.
+B4092600,rings,"Juste un Clou ring",2270,"yellow gold","Juste un Clou ring, 18K yellow gold. Width: 2.65mm.",12.
+B4099200,rings,"Juste un Clou ring",2430,"white gold","Juste un Clou ring, 18K white gold, rhodium-finish Width: 2.65mm.",12.
+B4210800,rings,"Juste un Clou ring",4000,"pink gold, diamonds","Juste un Clou ring, 18K rose gold, set with 14 brilliant-cut diamonds totaling 0.08 carats. Width: 1.8mm.",12.
+B4092700,rings,"Juste un Clou ring",4050,"white gold, diamonds","Juste un Clou ring, 18K white gold, set with 22 brilliant-cut diamonds totaling 0.13 carats. Width: 2.65mm.",12.
+B4211000,rings,"Juste un Clou ring",4300,"white gold, diamonds","Juste un Clou ring, 18K white gold, set with 14 brilliant-cut diamonds totaling 0.08 carats. Width: 1.8mm.",12.
+B4210900,rings,"Juste un Clou ring",9850,"pink gold, diamonds","Juste un Clou ring, 18K pink gold, set with 77 brilliant-cut diamonds totaling 0.59 carats.",12.
+B4211900,rings,"Juste un Clou ring",9850,"yellow gold, diamonds","Juste un Clou ring, 18K yellow gold, set with 77 brilliant-cut diamonds totaling 0.59 carats. Width: 1.8mm.",12.
+B4211100,rings,"Juste un Clou ring",10600,"white gold, diamonds","Juste un Clou ring, 18K white gold, set with 77 brilliant-cut diamonds totaling 0.59 carats.",12.
+B4059900,rings,"Tank Française ring",2210,"white gold","Tank Française ring, small model, 18K white gold. 6 mm wide (7 mm from size 60).",12.
+B4083500,rings,"Maillon Panthère wedding band",1210,"white gold","Maillon Panthère wedding band, 18K white gold.",12.
+B4080300,rings,"Maillon Panthère wedding band",1780,"yellow gold, diamonds","Maillon Panthère wedding band, 18K yellow gold, set with 4 brilliant-cut diamonds totaling 0.05 carat.",12.
+B4080500,rings,"Maillon Panthère wedding band",1780,"pink gold, diamonds","Maillon Panthère wedding band, 18K pink gold, set with 4 brilliant-cut diamonds totaling 0.05 carat.",12.
+B4080400,rings,"Maillon Panthère wedding band",1900,"white gold, diamonds","Maillon Panthère wedding band, 18K white gold, set with 4 brilliant-cut diamonds totaling 0.05 carat.",12.
+B4230600,rings,"Maillon Panthère ring",2110,"yellow gold","Maillon Panthère ring, 18K yellow gold.",12.
+B4221100,rings,"Maillon Panthère wedding band",3100,"yellow gold, diamonds","Maillon Panthère wedding band, 18K yellow gold, set with 12 brilliant-cut diamonds totaling 0.15 carats.",12.
+B4221200,rings,"Maillon Panthère wedding band",3100,"pink gold, diamonds","Maillon Panthère wedding band, 18K pink gold, set with 12 brilliant-cut diamonds totaling 0.15 carats.",12.
+B4221000,rings,"Maillon Panthère wedding band",3300,"white gold, diamonds","Maillon Panthère wedding band, 18K white gold, set with 12 brilliant-cut diamonds totaling 0.15 carats.",12.
+B4230700,rings,"Maillon Panthère ring",3500,"yellow gold","Maillon Panthère ring, 18K yellow gold.",12.
+B4098800,rings,"Maillon Panthère thin wedding band, 2 half diamond-paved rows",5000,"pink gold, diamonds","Maillon Panthère wedding band, 18K pink gold, set with 42 brilliant-cut diamonds totaling 0.30 carat.",12.
+B4216000,rings,"Maillon Panthère ring",5000,"yellow gold, diamonds","Maillon Panthère wedding band, 18K yellow gold, set with 42 brilliant-cut diamonds totaling 0.3 carats.",12.
+B4098900,rings,"Maillon Panthère thin wedding band, 2 half diamond-paved rows",5350,"white gold, diamonds","Maillon Panthère wedding band, 18K white gold, set with 42 brilliant-cut diamonds totaling 0.30 carat.",12.
+B4095300,rings,"Maillon Panthère ring, 3 half diamond-paved rows",7850,"pink gold, diamonds","Maillon Panthère ring, 18K pink gold, set with 35 brilliant-cut diamonds totaling 0.53 carat.",12.
+B4127100,rings,"Maillon Panthère ring, 3 half diamond-paved rows",7850,"yellow gold, diamonds","Maillon Panthère ring, 18K yellow gold, set with 35 brilliant-cut diamonds totaling 0.53 carat.",12.
+B4127200,rings,"Maillon Panthère ring, 3 half diamond-paved rows",8400,"white gold, diamonds","Maillon Panthère ring, 18K white gold, set with 35 brilliant-cut diamonds totaling 0.53 carat.",12.
+B4111700,rings,"Maillon Panthère ring, 3 diamond-paved rows",14900,"white gold, diamonds","Maillon Panthère ring, 18K white gold, set with 90 brilliant-cut diamonds totaling 1.37 carats.",12.
+B4227400,rings,"Ecrou de Cartier ring",2360,"white gold","Ecrou de Cartier ring, 18K white gold.",12.
+B4227200,rings,"Ecrou de Cartier ring",2210,"yellow gold","Ecrou de Cartier ring, 18K yellow gold.",12.
+B4227300,rings,"Ecrou de Cartier ring",2210,"pink gold","Ecrou de Cartier ring, 18K pink gold.",12.
+N4764900,rings,"Ecrou de Cartier ring",14800,"pink gold, diamonds","Ecrou de Cartier ring, 18K pink gold, set with 30 baguette-cut diamonds totaling 1.21 carats.",12.
+N4752900,rings,"Pluie de Cartier ring",11500,"white gold, diamonds","Pluie de Cartier ring, 18K white gold, set with 17 brilliant-cut diamonds totaling 1.06 carat.",12.
+N4753000,rings,"Pluie de Cartier ring",30800,"white gold, diamonds","Pluie de Cartier ring, 18K white gold, set with 5 pear-shaped diamonds totaling 1.45 carats and 18 brilliant-cut diamonds totaling 0.86 carat.",12.
+N4752800,rings,"Pluie de Cartier ring",49300,"white gold, diamonds","Pluie de Cartier wedding band, 18K white gold, set with 90 brilliant-cut diamonds totaling 5.20 carats.",12.
+B4226300,rings,"Goldmaster de Cartier ring",3650,"yellow gold","Goldmaster de Cartier ring, 18K yellow gold.",12.
+B4226400,rings,"Goldmaster de Cartier ring",3750,"yellow gold","Goldmaster de Cartier ring, 18K yellow gold.",12.
+B4226200,rings,"Goldmaster de Cartier ring",4150,"yellow gold","Goldmaster de Cartier ring, 18K yellow gold.",12.
+B4229900,rings,"Clash de Cartier ring Medium Model",3050,"pink gold","Clash de Cartier ring, medium model, 18K pink gold. Width: 8mm",12.
+B4229800,rings,"Clash de Cartier ring Small Model",2120,"pink gold","Clash de Cartier ring, small model, 18K pink gold. Width: 6.4mm",12.
+B4233100,rings,"Clash de Cartier ring Small Model",2270,"white gold","Clash de Cartier ring, small model, rhodiumized 18K white gold. Width: 6.4 mm.",12.
+B4231100,rings,"Clash de Cartier ring Medium Model",3300,"white gold","Clash de Cartier ring, medium model, non-rhodiumized 18K white gold. Width: 8 mm.",12.
+B4233000,rings,"Clash de Cartier ring Medium Model",3300,"white gold","Clash de Cartier ring, medium model, rhodiumized 18K white gold. Width: 8 mm.",12.
+N4765400,rings,"Clash de Cartier ring Diamonds",8500,"pink gold, diamonds","Clash de Cartier ring, 18K pink gold, set with 18 brilliant-cut diamonds totaling 0.53 carats. Width: 6.8mm",12.
+N4777300,rings,"Clash de Cartier ring Large Model",12500,"pink gold, amazonite","Clash de Cartier ring, large model, 18K pink gold, amazonite.",12.
+N4765300,rings,"Clash de Cartier ring XL Model",11200,"yellow gold, coral","Clash de Cartier ring, XL model, 18K yellow gold, coral. Width: 17.7mm",12.
+B6044017,bracelets,"Amulette de Cartier bracelet, XS model",1780,"yellow gold, diamond, white mother-of-pearl","Amulette de Cartier bracelet, XS model, 18K yellow gold, set with a brilliant-cut diamond of 0.02 carats, white mother-of-pearl. Diameter of motif: 12 mm.",12.
+B6047117,bracelets,"Amulette de Cartier bracelet, XS model",2050,"pink gold, malachite, diamond","Amulette de Cartier bracelet, XS model, 18K pink gold, malachite, set with a brilliant-cut diamond of 0.02 carats. Diameter of motif: 12 mm.",12.
+B6044117,bracelets,"Amulette de Cartier bracelet, XS model",1780,"pink gold, diamond, onyx","Amulette de Cartier bracelet, XS model, 18K pink gold, set with a brilliant-cut diamond of 0.02 carats, onyx. Diameter of motif: 12 mm.",12.
+B6050717,bracelets,"Amulette de Cartier bracelet, XS model",4450,"pink gold, onyx, white mother-of-pearl, diamond","Amulette de Cartier bracelet, extra-small model, 18K pink gold, onyx, white mother-of-pearl, set with 2 brilliant-cut diamonds totaling 0.05 carats. Diameter of the motifs: 12 mm.",12.
+B6035517,bracelets,"Love bracelet",6300,"yellow gold","Love bracelet, 18K yellow gold. Sold with a screwdriver. Width: 6.1mm.",12.
+N6036917,bracelets,"Love bracelet, diamond-paved",40100,"pink gold, diamonds","Love bracelet, 18K pink gold, set with 204 brilliant-cut diamonds totaling 1.99 carats.",12.
+B6035617,bracelets,"Love bracelet",6300,"pink gold","Love bracelet, 18K rose gold. Sold with a screwdriver. Width: 6.1mm.",12.
+B6035417,bracelets,"Love bracelet",6750,"white gold","Love bracelet, 18K white gold. Sold with a screwdriver. Width: 6.1mm.",12.
+B6047517,bracelets,"Love bracelet, SM",4050,"yellow gold","Love bracelet, small model, 18K yellow gold. Sold with a screwdriver. Width: 3.65mm.",12.
+B6047317,bracelets,"Love bracelet, SM",4050,"pink gold","Love bracelet, small model, 18K rose gold. Sold with a screwdriver. Width: 3.65mm.",12.
+B6047417,bracelets,"Love bracelet, SM",4350,"white gold","Love bracelet, small model, 18K white gold. Sold with a screwdriver. Width: 3.65mm.",12.
+B6032417,bracelets,"Love bracelet",4500,"yellow gold","Love bracelet, 18K yellow gold. Width: 6.2mm.",12.
+B6032617,bracelets,"Love bracelet",4500,"pink gold","Love bracelet, 18K rose gold. Width: 6.2mm.",12.
+B6032517,bracelets,"Love bracelet",4800,"white gold","Love bracelet, 18K white gold. Width: 6.2mm.",12.
+B6035917,bracelets,"Love bracelet, 4 diamonds",10100,"yellow gold, diamonds","Love bracelet, 18K yellow gold, set with 4 brilliant-cut diamonds totaling 0.42 carats. Sold with a screwdriver. Width: 6.1mm.",12.
+B6036017,bracelets,"Love bracelet, 4 diamonds",10100,"pink gold, diamonds","Love bracelet, 18K rose gold, set with 4 brilliant-cut diamonds totaling 0.42 carats. Sold with a screwdriver. Width: 6.1mm.",12.
+B6035817,bracelets,"Love bracelet, 4 diamonds",10800,"white gold, diamonds","Love bracelet, 18K white gold, set with 4 brilliant-cut diamonds totaling 0.42 carats. Sold with a screwdriver. Width: 6.1mm.",12.
+B6029817,bracelets,"Love bracelet, 1 diamond",5300,"yellow gold, diamond","Love bracelet, 18K yellow gold, set with 1 brilliant-cut diamond totaling 0.10 carats. Width: 6.1mm.",12.
+B6029917,bracelets,"Love bracelet, 1 diamond",5700,"white gold, diamond","Love bracelet, 18K white gold, set with 1 brilliant-cut diamond totaling 0.10 carats. Width: 6.1mm.",12.
+B6047817,bracelets,"Love bracelet, small model, 10 diamonds",8100,"yellow gold, diamonds","Love bracelet, small model, 18K yellow gold, set with 10 brilliant-cut diamonds totaling 0.21 carats. Sold with a screwdriver. Width: 3.65mm.",12.
+B6047917,bracelets,"Love bracelet, small model, 10 diamonds",8100,"pink gold, diamonds","Love bracelet, small model, 18K rose gold, set with 10 brilliant-cut diamonds totaling 0.21 carats. Sold with a screwdriver. Width: 3.65mm.",12.
+B6048017,bracelets,"Love bracelet, small model, 10 diamonds",8650,"white gold, diamonds","Love bracelet, small model, 18K white gold, set with 10 brilliant-cut diamonds totaling 0.21 carats. Sold with a screwdriver. Width: 3.65mm.",12.
+B6040517,bracelets,"Love bracelet, 10 diamonds",14600,"yellow gold, diamonds","Love bracelet, 18K yellow gold, set with 10 brilliant-cut diamonds totaling 0.96 carats. Sold with a screwdriver. Width: 6.1mm.",12.
+B6040617,bracelets,"Love bracelet, 10 diamonds",14600,"pink gold, diamonds","Love bracelet, 18K rose gold, set with 10 brilliant-cut diamonds totaling 0.96 carats. Sold with a screwdriver. Width: 6.1mm.",12.
+B6040717,bracelets,"Love bracelet, 10 diamonds",15600,"white gold, diamonds","Love bracelet, 18K white gold, set with 10 brilliant-cut diamonds totaling 0.96 carats. Sold with a screwdriver. Width: 6.1mm.",12.
+N6710617,bracelets,"Love bracelet, small model, pavé",24900,"yellow gold, diamonds","Bracelet Love bracelet, small model, 18K yellow gold, set with 177 brilliant-cut diamonds totaling 0.95 carats. Sold with a screwdriver. Width: 3.65mm.",12.
+N6710717,bracelets,"Love bracelet, small model, pavé",24900,"pink gold, diamonds","Love bracelet, small model, 18K pink gold, set with 177 brilliant-cut diamonds totaling 0.95 carats. Sold with a screwdriver.",12.
+N6710817,bracelets,"Love bracelet, small model, pavé",26700,"white gold, diamonds","Bracelet Love bracelet, small model, 18K white gold, set with 177 brilliant-cut diamonds totaling 0.95 carats. Sold with a screwdriver. Width: 3.65mm.",12.
+N6035017,bracelets,"Love bracelet, diamond-paved",40100,"yellow gold, diamonds","Love bracelet, 18K yellow gold, set with 204 brilliant-cut diamonds totaling 1.99 carats. Width: 6.7mm.",12.
+N6033602,bracelets,"Love bracelet, diamond-paved",56000,"white gold, diamonds","Love bracelet, 18K white gold, set with 216 brilliant-cut diamonds totaling 3.15 carats. Width: 6.7 mm.",12.
+N6032417,bracelets,"Love bracelet, diamond-paved, ceramic",43300,"white gold, ceramic, diamonds","Love bracelet, 18K white gold, black ceramic, set with 204 brilliant-cut diamonds totaling 1.99 carats.",12.
+B6036517,bracelets,"Love bracelet",7750,"pink gold, sapphires, garnets, amethysts","# LOVE# bracelet, 18K rose gold, set with 2 rose sapphires, 2 yellow sapphires, 2 green garnets, 2 orange garnets and 2 amethysts. Sold with a screwdriver. Width: 6.1mm.",12.
+B6026005,bracelets,"Love bracelet",1300,"white gold, ceramic, diamonds","Love bracelet, 18K white gold, black ceramic, set with 4 brilliant-cut diamonds totaling 0.01 carats. Comes on a black cord. Width: 2.6 mm. Inner diameter of the two rings: 8 mm.",12.
+B6036317,bracelets,"Love bracelet",8250,"white gold, aquamarines, sapphires, spinels, amethysts","# LOVE# bracelet, 18K white gold, set with 2 aquamarines, 2 pink sapphires, 2 blue sapphires, 2 purple spinels and 2 amethysts. Sold with a screwdriver. Width: 6.1mm.",12.
+B6040100,bracelets,"Love bracelet",1210,"pink gold, ceramic, diamonds","Love bracelet, 18K pink gold, brown ceramic, set with 4 brilliant-cut diamonds totaling 0.01 carats. Comes on a pink-toned cord. Width: 2.6 mm. Inner diameter of the two rings: 8 mm.",12.
+B6027100,bracelets,"Love bracelet",1630,"yellow gold","Love bracelet, 18K yellow gold. Width: 2.55 mm. Inner diameter: 9.7 mm.",12.
+B6027000,bracelets,"Love bracelet",1630,"pink gold","Love bracelet, 18K pink gold. Width: 2.55 mm. Inner diameter: 9.7 mm.",12.
+B6027200,bracelets,"Love bracelet",1740,"white gold","Love bracelet, 18K white gold. Width: 2.55 mm. Inner diameter: 9.7 mm.",12.
+B6038300,bracelets,"Love bracelet",1940,"yellow gold, diamonds","Love bracelet, 18K yellow gold, set with 2 brilliant-cut diamonds totaling 0.03 carats. Width: 7.8 mm.",12.
+B6038100,bracelets,"Love bracelet",2080,"white gold, diamonds","Love bracelet, 18K white gold, set with 2 brilliant-cut diamonds totaling 0.03 carats. Inner diameter: 7.8 mm.",12.
+N6039117,bracelets,"Love bracelet, 12 diamonds",19800,"pink gold, white gold, diamonds","Love bracelet, 18K rose gold, 18K white gold, set with 12 brilliant-cut diamonds totaling 0.78 carats. Sold with a screwdriver. Rose gold width 6.1mm.",12.
+B6063600,bracelets,"Love bracelet",1940,"pink gold, diamonds","Love bracelet, 18K pink gold, set with 2 brilliant-cut diamonds totaling 0.03 carats. Inner diameter: 7.8 mm.",12.
+B6047217,bracelets,"Love bracelet, small model, 6 diamonds",6000,"yellow gold, diamonds","Love bracelet, small model, 18K yellow gold, set with 6 diamonds totaling 0.15 carats.",12.
+B6047617,bracelets,"Love bracelet, small model, 6 diamonds",6000,"pink gold, diamonds","Love bracelet, small model, 18K pink gold, set with 6 diamonds totaling 0.15 carats.",12.
+B6047717,bracelets,"Love bracelet, small model, 6 diamonds",6400,"white gold, diamonds","Love bracelet, small model, 18K white gold, set with 6 diamonds totaling 0.15 carats.",12.
+B6064617,bracelets,"Love bracelet",7600,"yellow gold","Love bracelet, 18K yellow gold.",12.
+B6064717,bracelets,"Love bracelet",8150,"white gold","Love bracelet, 18K white gold.",12.
+N6717617,bracelets,"Love bracelet",43200,"white gold, diamonds","Love bracelet, 18K white gold, set with 204 brilliant-cut diamonds totaling 1.99 carats.",12.
+B6030017,bracelets,"Love bracelet, 1 pink sapphire",4950,"pink gold, pink sapphire","Love bracelet, 18K rose gold, set with 1 rose sapphire. Width: 6.1mm.",12.
+N6039217,bracelets,"Love bracelet, diamond-paved",32700,"pink gold, white gold, diamonds","Love necklace, 18K pink gold, 18K white gold, set with 144 brilliant-cut diamonds totaling 1.47 carats. Sold with a screwdriver.",12.
+B6064516,bracelets,"Panthère de Cartier bracelet",8750,"yellow gold, tsavorite garnets, diamonds","Panthère de Cartier bracelet, 18K yellow gold, black lacquer, set with one tsavorite garnet and 19 brilliant-cut diamonds totaling 0.07 carats.",12.
+N6706117,bracelets,"Panthère de Cartier bracelet",10400,"yellow gold, tsavorite garnets, onyx","Panthère de Cartier bracelet, 18K yellow gold, tsavorite garnets, onyx.",12.
+N6711617,bracelets,"Panthère de Cartier bracelet",10400,"pink gold, tsavorite garnets, onyx","Panthère de Cartier bracelet, 18K pink gold. Tsavorite garnets and onyx.",12.
+N6036700,bracelets,"Panthère de Cartier bracelet",18200,"yellow gold, lacquer, diamond, tsavorite garnet, onyx","Panthère de Cartier bracelet, 18K yellow gold, black lacquer, set with 31 brilliant-cut diamonds totaling 0.26 carat. Tsavorite garnet, onyx.",12.
+N6715217,bracelets,"Panthère de Cartier bracelet",19700,"yellow gold, tsavorite garnets, onyx","Panthère de Cartier bracelet, 18K yellow gold, onyx, black lacquer, set with 2 tsavorite garnets.",12.
+N6700517,bracelets,"Panthère de Cartier bracelet",24400,"yellow gold, lacquer, diamonds, tsavorite garnets, onyx","Panthère de Cartier bracelet, 18K yellow gold, black lacquer, set with 3 brilliant-cut diamonds totaling 0.16 carat. Tsavorite garnets, onyx.",12.
+N6712017,bracelets,"Panthère de Cartier bracelet",29600,"yellow gold, tsavorite garnets, onyx","Panthère de Cartier bracelet, 18K yellow gold, onyx, black lacquer, set with 2 tsavorite garnets.",12.
+N6712117,bracelets,"Panthère de Cartier bracelet",29600,"pink gold, tsavorite garnets, onyx","Panthère de Cartier bracelet, 18K pink gold, onyx, black lacquer, set with 2 tsavorite garnets.",12.
+N6706217,bracelets,"Panthère de Cartier bracelet",33900,"white gold, emeralds, onyx, diamonds","Panthère de Cartier bracelet, 18K white gold, set with 194 brilliant-cut diamonds (1.37 carats), emeralds and onyx.",12.
+N6715417,bracelets,"Panthère de Cartier bracelet",51000,"yellow gold, emeralds, onyx, diamonds","Panthère de Cartier bracelet, 18K yellow gold, onyx, set with 2 emeralds and 225 brilliant-cut diamonds totaling 2.51 carats.",12.
+N6715617,bracelets,"Panthère de Cartier bracelet",54500,"white gold, emeralds, onyx, diamonds","Panthère de Cartier bracelet, 18K white gold, onyx, set with 2 emeralds and 225 brilliant-cut diamonds totaling 2.55 carats.",12.
+B6046516,bracelets,"Panthère de Cartier bracelet",8750,"pink gold, tsavorite garnets, diamonds","Panthère de Cartier bracelet, 18K pink gold, black lacquer, set with a tsavorite garnet and 19 brilliant-cut diamonds totaling 0.07 carats.",12.
+N6033402,bracelets,"Panthère de Cartier bracelet",35000,"yellow gold, lacquer, tsavorite garnets, onyx","Panthère de Cartier bracelet, 18K yellow gold, black lacquer. Tsavorite garnets, onyx.",12.
+N6710117,bracelets,"Panthère de Cartier bracelet",35000,"pink gold, black lacquer, onyx, tsavorite garnets","Panthère de Cartier bracelet, 18K pink gold, black lacquer, tsavorite garnets, onyx.",12.
+N6034202,bracelets,"Panthère de Cartier bracelet",37400,"white gold, lacquer, tsavorite garnets, onyx","Panthère de Cartier bracelet, 18K white gold, black lacquer. Tsavorite garnets, onyx.",12.
+N6035317,bracelets,"Panthère de Cartier bracelet",88000,"yellow gold, diamonds, emeralds, onyx","Panthère de Cartier bracelet, 18K yellow gold, set with 360 brilliant-cut diamonds totaling 4.33 carats. Emeralds, onyx.",12.
+N6717517,bracelets,"Panthère de Cartier bracelet",105000,"white gold, emeralds, onyx, diamonds","Panthère de Cartier bracelet, 18K white gold, onyx, set with 2 emeralds and 647 brilliant-cut diamonds totaling 7.56 carats.",12.
+H6001017,bracelets,"Panthère de Cartier bracelet",126000,"white gold, emeralds, onyx, diamonds","Bracelet, 18K white gold, black toile de moire, set with 581 brilliant-cut diamonds (4.13 carats), emeralds and onyx.",12.
+HP601186,bracelets,"Panthère de Cartier bracelet",149000,"white gold, emeralds, onyx, diamonds","Bracelet, white gold, 861 brilliant-cut diamonds totaling 8.31 carats, emeralds, onyx.",12.
+H6001517,bracelets,"Panthère de Cartier bracelet",160000,"white gold, emeralds, onyx, diamonds","Panthère de Cartier bracelet, 18K white gold, set with 833 brilliant-cut diamonds totaling 9 carats, emeralds and onyx.",12.
+H6007417,bracelets,"Panthère de Cartier bracelet",228000,"white gold, emeralds, onyx, diamonds","Panthère de Cartier bracelet, 18K white gold, 704 brilliant-cut diamonds totaling 16.02 carats, emeralds, onyx.",12.
+H6013017,bracelets,"Panthère de Cartier bracelet",234000,"pink gold, emeralds, obsidians, diamonds","Panthère de Cartier bracelet, 18K pink gold, set with emeralds, obsidians and 739 brilliant-cut diamonds totaling 11.56 carats.",12.
+H6013117,bracelets,"Panthère de Cartier bracelet",234000,"yellow gold, emeralds, onyx, diamonds","Panthère de Cartier bracelet, 18K yellow gold, set with emeralds, onyx and 739 brilliant-cut diamonds totaling 11.56 carats.",12.
+H6007517,bracelets,"Panthère de Cartier bracelet",251000,"platinum, emeralds, onyx, diamonds","Bracelet - 950‰ platinum, 744 brilliant-cut diamonds totaling 12.73 carats, emeralds, onyx.",12.
+HP601197,bracelets,"Panthère de Cartier bracelet",306000,"platinum, emeralds, onyx, diamonds","Bracelet - 950‰ platinum, 981 brilliant-cut diamonds totaling 12.70 carats, emeralds, onyx.",12.
+HP601221,bracelets,"Faune et Flore de Cartier bracelet",177000,"platinum, emeralds, diamonds","Bracelet - 950‰ platinum, emeralds, brilliant-cut diamonds.",12.
+H6024617,bracelets,"Cactus de Cartier bracelet",68500,"yellow gold, chrysoprase, lapis lazuli, diamonds","Cactus de Cartier bracelet, 18K yellow gold, set with 16 chrysoprases, 14 lapis lazulis and 36 brilliant-cut diamonds totaling 0.76 carats.",12.
+N6713417,bracelets,"Cactus de Cartier bracelet",84000,"yellow gold, diamonds","Cactus de Cartier bracelet, 18K yellow gold, set with 223 brilliant-cut diamonds totaling 4.26 carats.",12.
+H6015317,bracelets,"Cactus de Cartier bracelet",200000,"yellow gold, emeralds, diamonds","Cactus de Cartier bracelet, 18K yellow gold, emeralds, set with 204 brilliant-cut diamonds totaling 5.92 carats.",12.
+H6015217,bracelets,"Cactus de Cartier bracelet",217000,"yellow gold, emeralds, chrysoprases, carnelians, diamonds","Cactus de Cartier bracelet, 18K yellow gold, chrysoprases, emeralds, carnelians, 8 brilliant-cut diamonds totaling 0.61 carat.",12.
+B6058718,bracelets,"Trinity bracelet",2980,"white gold, yellow gold, pink gold, diamond","Trinity bracelet, 18K white gold, 18K yellow gold, 18K pink gold, set with a brilliant-cut diamond of 0.18 carats.",12.
+B6050217,bracelets,"Trinity bracelet",6700,"white gold, pink gold, yellow gold","Trinity bracelet, small model, 18K white gold, 18K rose gold, 18K yellow gold. Width: 2.8mm.",12.
+N6711717,bracelets,"Trinity bracelet",27800,"white gold, yellow gold, pink gold, diamonds","Trinity bracelet, small model, 18K white gold, 18K yellow gold, 18K pink gold, set with 324 diamonds totaling 1.74 carats.",12.
+B6013302,bracelets,"Trinity bracelet",9100,"white gold, yellow gold, pink gold","Trinity bracelet, medium model, 18K white gold, 18K pink gold, 18K yellow gold.",12.
+N6703317,bracelets,"C de Cartier bracelet",11800,"pink gold, diamonds","C de Cartier Classic Diamonds bracelet, 18K pink gold, set with 55 brilliant-cut diamonds (1.53 carats).",12.
+N6703417,bracelets,"C de Cartier bracelet",12600,"white gold, diamonds","C de Cartier bracelet, 18K white gold, set with 55 brilliant-cut diamonds totaling 1.53 carats.",12.
+N6707917,bracelets,"Essential Lines bracelet",20600,"white gold, diamonds","Essential Lines bracelet, 18K white gold, set with 61 brilliant-cut diamonds totaling 3.34 carats.",12.
+N6711417,bracelets,"Essential Lines bracelet",26800,"white gold, diamonds, sapphires","Essential Lines bracelet, 18K white gold, set with 26 brilliant-cut diamonds totaling 2.34 carats, and 26 brilliant-cut sapphires.",12.
+N6712417,bracelets,"Essential Lines bracelet",16200,"white gold, sapphires","Essential Lines bracelet, 18K white gold, set with 61 brilliant-cut sapphires.",12.
+N6712317,bracelets,"Essential Lines bracelet",22300,"white gold, sapphires","Essential Lines bracelet, 18K white gold, set with 52 brilliant-cut sapphires.",12.
+B6037200,bracelets,"Diamants Légers bracelet, SM",1260,"white gold, diamond","Diamants Légers bracelet, 18K white gold, set with a brilliant-cut diamond of 0.09 carat.",12.
+B6062917,bracelets,"Diamants Légers bracelet",1750,"yellow gold, diamonds","Diamants Légers bracelet, 18K yellow gold, set with a brilliant-cut diamond of 0.13 carats.",12.
+B6063017,bracelets,"Diamants Légers bracelet",1750,"pink gold, diamonds","Diamants Légers bracelet, 18K pink gold, set with a brilliant-cut diamond of 0.13 carats.",12.
+B6063117,bracelets,"Diamants Légers bracelet",1870,"white gold, diamonds","Diamants Légers bracelet, 18K white gold, set with a brilliant-cut diamond of 0.13 carats.",12.
+B6049817,bracelets,"Etincelle de Cartier bracelet",7200,"pink gold, diamonds","Etincelle de Cartier bracelet, 18K pink gold, set with 48 brilliant-cut diamonds totaling 0.60 carats.",12.
+B6049917,bracelets,"Etincelle de Cartier bracelet",7200,"yellow gold, diamonds","Etincelle de Cartier bracelet, 18K yellow gold, set with 48 brilliant-cut diamonds totaling 0.60 carats.",12.
+B6049717,bracelets,"Etincelle de Cartier bracelet",7700,"white gold, diamonds","Etincelle de Cartier bracelet, 18K white gold, set with 48 brilliant-cut diamonds totaling 0.60 carats.",12.
+H6012717,bracelets,"Reflection de Cartier bracelet",148000,"white gold, diamonds","Reflection de Cartier bracelet, 18K white gold, set with 104 brilliant-cut diamonds totaling 4.49 carats and 52 baguette-cut diamonds totaling 5.85 carats.",12.
+B6038000,bracelets,"Logo bracelet",1810,"pink gold, diamonds","Double C de Cartier bracelet, 18K pink gold, set with 2 brilliant-cut diamonds of 0.04 carat.",12.
+N6713317,bracelets,"Etincelle de Cartier bracelet",33500,"white gold, diamonds","Étincelle de Cartier bracelet, 18K white gold, set with 178 brilliant-cut diamonds totaling 2.58 carats.",12.
+HP600115,bracelets,"Etincelle de Cartier bracelet",103000,"platinum, diamonds","Étincelle de Cartier bracelet, 950‰ platinum, set with 370 brilliant-cut diamonds totaling 18.41 carats.",12.
+H6019817,bracelets,"Reflection de Cartier bracelet",263000,"white gold, diamonds","Large model Reflection de Cartier bracelet, 18K white gold, set with 166 baguette-cut diamonds totaling 12.96 carats, 30 princess-cut diamonds totaling 4.23 carats and 2 troidia-cut diamonds totaling 0.81 carats.",12.
+B6048217,bracelets,"Juste un Clou bracelet",6800,"yellow gold","Juste un Clou bracelet, classic, 18K yellow gold. Width: 3.5mm.",12.
+B6048117,bracelets,"Juste un Clou bracelet",6800,"pink gold","Juste un Clou bracelet, classic, 18K rose gold. Width: 3.5mm.",12.
+B6048317,bracelets,"Juste un Clou bracelet",7300,"white gold","Juste un Clou bracelet, classic, 18K white gold, rhodium-finish. Width: 3.5mm.",12.
+B6048517,bracelets,"Juste un Clou bracelet",11800,"pink gold, diamonds","Juste un Clou bracelet, classic, 18K pink gold, set with 32 brilliant-cut diamonds totaling 0.59 carat. Width: 3.5mm.",12.
+B6048617,bracelets,"Juste un Clou bracelet",11800,"yellow gold, diamonds","Juste un Clou bracelet, classic, 18K yellow gold, set with 32 brilliant-cut diamonds totaling 0.59 carat. Width: 3.5mm.",12.
+N6707317,bracelets,"Juste un Clou bracelet",46700,"white gold, diamonds","Juste un Clou bracelet, classic, 18K white gold, set with 374 brilliant-cut diamonds totaling 2.26 carats.",12.
+B6048717,bracelets,"Juste un Clou bracelet",12600,"white gold, diamonds","Juste un Clou bracelet, classic, 18K white gold, set with 32 brilliant-cut diamonds totaling 0.59 carat. Width: 3.5mm.",12.
+B6062617,bracelets,"Juste un Clou bracelet SM",3050,"yellow gold","Juste un Clou bracelet, small model, 18K yellow gold. Width: 2.5mm.",12.
+N6708617,bracelets,"Juste un Clou bracelet",81000,"pink gold, diamonds","Juste un Clou bracelet, 18K pink gold, set with 624 brilliant-cut diamonds totaling 3.61 carats.",12.
+N6709817,bracelets,"Juste un Clou bracelet",43600,"yellow gold, diamonds","Juste un Clou bracelet, classic, 18K yellow gold, set with 374 brilliant-cut diamonds totaling 2.26 carats.",12.
+B6062517,bracelets,"Juste un Clou bracelet SM",3050,"pink gold","Juste un Clou bracelet, small model, 18K rose gold. Width: 2.5mm.",12.
+N6708417,bracelets,"Juste un Clou bracelet",21200,"pink gold, diamonds","Juste un Clou bracelet, 18K pink gold, set with 62 brilliant-cut diamonds totaling 0.51 carats.",12.
+N6708517,bracelets,"Juste un Clou bracelet",22700,"white gold, diamonds","Juste un Clou bracelet, 18K white gold, set with 62 brilliant-cut diamonds totaling 0.51 carats.",12.
+N6702117,bracelets,"Juste un Clou bracelet",43600,"pink gold, diamonds","Juste un Clou bracelet, classic, 18K pink gold, set with 374 brilliant-cut diamonds totaling 2.26 carats.",12.
+N6712517,bracelets,"Juste un Clou bracelet",87500,"yellow gold, diamonds","Juste un Clou bracelet, large model, 18K yellow gold, set with 236 brilliant-cut diamonds totaling 4.40 carats.",12.
+N6716817,bracelets,"Juste un Clou bracelet",19900,"white gold, ceramic, diamonds","Juste un Clou bracelet, 18K white gold, ceramic, set with brilliant-cut 76 diamonds totaling 0.78 carat.",12.
+N6039317,bracelets,"Juste un Clou bracelet",35900,"pink gold","Juste un Clou bracelet, large model, 18K pink gold.",12.
+N6039717,bracelets,"Juste un Clou bracelet",35900,"yellow gold","Juste un Clou bracelet, large model, 18K yellow gold.",12.
+N6711917,bracelets,"Juste un Clou bracelet",87500,"pink gold, diamonds","Juste un Clou bracelet, large model, 18K pink gold, set with 236 brilliant-cut diamonds totaling 4.40 carats.",12.
+HP601192,bracelets,"Juste un Clou bracelet",312000,"white gold, diamonds","Bracelet - 18K white gold, 1,752 brilliant-cut diamonds totaling 27.60 carats.",12.
+H6004717,bracelets,"Juste un Clou bracelet",331000,"white gold, diamonds","Juste un Clou cuff bracelet, 18K white gold, set with 2,352 brilliant-cut diamonds totaling 26.73 carats.",12.
+B6021300,bracelets,"Santos de Cartier bracelet",3150,"yellow gold","Santos de Cartier bracelet, 18K yellow gold.",12.
+B6021400,bracelets,"Santos de Cartier bracelet",3350,"white gold","Santos de Cartier bracelet, 18K white gold.",12.
+B6065417,bracelets,"Maillon Panthère bracelet",6350,"yellow gold","Maillon Panthère bracelet, 18K yellow gold.",12.
+B6065617,bracelets,"Maillon Panthère bracelet",10600,"yellow gold","Maillon Panthère bracelet, 18K yellow gold.",12.
+N6701000,bracelets,"Maillon Panthère thin bracelet, 3 diamond-paved rows",39700,"white gold, diamonds","Maillon Panthère bracelet, 18K white gold, set with 336 brilliant-cut diamonds totaling 2.41 carats.",12.
+B6063817,bracelets,"Ecrou de Cartier bracelet",6600,"yellow gold","Ecrou de Cartier bracelet, 18K yellow gold.",12.
+B6049617,bracelets,"Ecrou de Cartier bracelet",7050,"white gold","Écrou de Cartier bracelet, 18K white gold. Width: 3.5mm.",12.
+B6049517,bracelets,"Ecrou de Cartier bracelet",6600,"pink gold","Écrou bracelet, 18K rose gold. Width: 3.5mm.",12.
+N6714517,bracelets,"Ecrou de Cartier bracelet",18700,"pink gold, diamonds","Ecrou de Cartier bracelet, 18K pink gold, set with 24 baguette-cut diamonds totaling 1.29 carats.",12.
+B6064417,bracelets,"Ecrou de Cartier bracelet",7050,"white gold","Ecrou de Cartier bracelet, 18K white gold, non-rhodium finish.",12.
+B6040200,bracelets,"Symbols bracelet",2200,"pink gold, diamonds","Hearts and Symbols bracelet, 18K pink gold, set with 11 brilliant-cut diamonds totaling 0.13 carat.",12.
+B6040400,bracelets,"Symbols bracelet",2360,"white gold, diamonds","Hearts and Symbols bracelet, 18K white gold, set with 11 brilliant-cut diamonds totaling 0.13 carat.",12.
+N6713817,bracelets,"Agrafe bracelet",21200,"pink gold, diamonds","Agrafe Résille bracelet, 18K pink gold, set with 67 brilliant-cut diamonds totaling 1.82 carats.",12.
+N6713917,bracelets,"Agrafe bracelet",33600,"pink gold, diamonds","Agrafe Résille bracelet, 18K pink gold, set with 77 brilliant-cut diamonds totaling 2.76 carats.",12.
+H6020016,bracelets,"Agrafe bracelet",96000,"white gold, diamonds","Agrafe Résille bracelet, 18K white gold, set with 459 brilliant-cut diamonds totaling 10.69 carats.",12.
+H6001317,bracelets,"Agrafe bracelet",58500,"pink gold, diamonds","Agrafe Résille bracelet, 18K pink gold, set with 175 brilliant-cut diamonds totaling 3.98 carats.",12.
+H6020116,bracelets,"Agrafe bracelet",89500,"pink gold, diamonds","Agrafe Résille bracelet, 18K pink gold, set with 459 brilliant-cut diamonds totaling 10.69 carats.",12.
+H6020117,bracelets,"Agrafe bracelet",89500,"pink gold, diamonds","Agrafe Résille bracelet, 18K pink gold, set with 459 brilliant-cut diamonds totaling 10.69 carats.",12.
+H6032417,bracelets,"Pluie de Cartier bracelet",137000,"white gold, diamonds","Pluie de Cartier bracelet, 18K white gold, set with 342 brilliant-cut diamonds totaling 14.10 carats and 9 square-cut diamonds totaling 0.73 carat.",12.
+HP601053,bracelets,"Agrafe cuff bracelet",247000,"yellow gold, diamonds","Agrafe cuff bracelet - 18K yellow gold, 1,302 brilliant-cut diamonds totaling 30.28 carats.",12.
+HP601087,bracelets,"Agrafe cuff bracelet",247000,"pink gold, diamonds","Agrafe cuff bracelet - 18K pink gold, 1,302 brilliant-cut diamonds totaling 30.28 carats.",12.
+H6024217,bracelets,"Pluie de Cartier bracelet",114000,"white gold, diamonds","Pluie de Cartier bracelet, 18K white gold, set with 300 diamonds totaling 16.27 carats.",12.
+N6713117,bracelets,"Pluie de Cartier bracelet",153000,"white gold, diamonds","Pluie de Cartier bracelet, 18K white gold, set with 280 brilliant-cut diamonds totaling 16.20 carats.",12.
+B6065217,bracelets,"Clash de Cartier bracelet Medium Model",8750,"pink gold","Clash de Cartier bracelet, medium model, 18K pink gold. Width: 8mm",12.
+B6065117,bracelets,"Clash de Cartier bracelet Small Model",6600,"pink gold","Clash de Cartier bracelet, small model, 18K pink gold. Width: 6.4mm",12.
+B6065717,bracelets,"Clash de Cartier bracelet Medium Model",9350,"white gold","Clash de Cartier bracelet, medium model, rhodiumized 18K white gold. Width: 8mm",12.
+N6715017,bracelets,"Clash de Cartier bracelet Diamonds",25500,"pink gold, diamonds","Clash de Cartier bracelet, 18K pink gold, set with 51 brilliant-cut diamonds totaling 1.51 carats. Width: 6.8 mm.",12.
+N6718417,bracelets,"Clash de Cartier bracelet Large Model",56000,"pink gold, amazonite","Clash de Cartier bracelet, large model, 18K pink gold, amazonite.",12.
+B3047100,necklaces,"Amulette de Cartier necklace, XS model",1900,"yellow gold, diamonds, white mother-of-pearl","Amulette de Cartier necklace, XS model, 18K yellow gold, set with a brilliant-cut diamond of 0.02 carats, white mother-of-pearl. Diameter of motif: 12 mm. Adjustable chain: 38-41 cm.",12.
+B3047200,necklaces,"Amulette de Cartier necklace, XS model",1900,"pink gold, onyx, diamonds","Amulette de Cartier necklace, XS model, 18K pink gold, onyx, set with a brilliant-cut diamond of 0.02 carats. Diameter of motif: 12 mm. Adjustable chain: 38-41 cm.",12.
+B7224550,necklaces,"Amulette de Cartier necklace, XS model",2180,"pink gold, malachite, diamond","Amulette de Cartier necklace, XS model, 18K pink gold, malachite, set with a brilliant-cut diamond of 0.02 carats.  Diameter of motif: 12 mm. Adjustable chain: 38-41 cm.",12.
+B7224569,necklaces,"Amulette de Cartier necklace, XS model",3500,"pink gold, onyx, white mother-of-pearl, diamond","Amulette de Cartier necklace, extra-small model, 18K pink gold, onyx, white mother-of-pearl, set with 2 brilliant-cut diamonds totaling 0.05 carats. Diameter of the motifs: 12 mm. Adjustable chain.",12.
+B7224558,necklaces,"Amulette de Cartier necklace, small model",3650,"pink gold, onyx, diamond","Amulette de Cartier necklace, small model, 18K pink gold, set with a brilliant-cut diamond of 0.09 carats, onyx.",12.
+B7224521,necklaces,"Amulette de Cartier necklace, small model",4900,"yellow gold, lapis lazuli, diamond","Amulette de Cartier necklace, small model, 18K yellow gold, lapis lazuli, set with a brilliant-cut diamond of 0.09 carats. Diameter of motif: 17 mm. Chain: 60 cm.",12.
+B7224518,necklaces,"Amulette de Cartier necklace, XS model",2180,"pink gold, carnelian, diamond","Amulette de Cartier necklace, XS model, 18K pink gold, carnelian, set with a brilliant-cut diamond of 0.02 carats. Diameter of motif: 12 mm. Adjustable chain: 38-41 cm.",12.
+B3153108,necklaces,"Amulette de Cartier necklace, XS model",2560,"yellow gold, lapis lazuli, diamond","Amulette de Cartier necklace, XS model, 18K yellow gold, lapis lazuli, set with a brilliant-cut diamond of 0.02 carats. Diameter of motif: 12 mm. Adjustable chain: 38-41 cm.",12.
+B7224520,necklaces,"Amulette de Cartier necklace, XS model",2560,"yellow gold, chrysoprase, diamond","Amulette de Cartier necklace, XS model, 18K yellow gold, chrysoprase, set with a brilliant-cut diamond of 0.02 carats. Diameter of motif: 12 mm. Adjustable chain: 38-41 cm.",12.
+B7224542,necklaces,"Amulette de Cartier necklace, small model",4200,"pink gold, malachite, diamond","Amulette de Cartier necklace, small model, 18K pink gold, malachite, set with a brilliant-cut diamond of 0.09 carats. Diameter of motif: 17 mm. Chain: 60 cm.",12.
+B3047300,necklaces,"Amulette de Cartier necklace, XS model",4950,"white gold, diamonds","Amulette de Cartier necklace, XS model, 18K white gold, set with 20 brilliant-cut diamonds totaling 0.25 carats. Diameter of motif: 12 mm. Adjustable chain: 38-41 cm.",12.
+B7212400,necklaces,"Love necklace",2160,"yellow gold","Love necklace, 18K yellow gold. Inner diameter 8mm. Chain length: 440mm.",12.
+B7014600,necklaces,"Love necklace, 3 diamonds",4250,"white gold, diamonds","Love necklace, 18K white gold, set with 3 brilliant-cut diamonds totaling 0.07 carats. Inner diameter 16mm. Chain length: 420mm.",12.
+B7212300,necklaces,"Love necklace",2160,"pink gold","Love necklace, 18K rose gold. Inner diameter 8mm. Chain length: 440mm.",12.
+B7219500,necklaces,"Love necklace, 2 diamonds",2230,"yellow gold, diamonds","Love necklace, 18K yellow gold, set with 2 brilliant-cut diamonds totaling 0.03 carats. Inner diameter: 7.8 mm. Chain length: 392 mm.",12.
+B7224509,necklaces,"Love necklace, 2 diamonds",2230,"pink gold, diamonds","Love necklace, 18K rose gold, set with 2 brilliant-cut diamonds totaling 0.03 carats. Inner diameter 7.8mm. Chain length: 392mm.",12.
+B7212500,necklaces,"Love necklace",2310,"white gold","Love necklace, 18K white gold. Inner diameter 8mm. Chain length: 440mm.",12.
+B7219400,necklaces,"Love necklace, 2 diamonds",2390,"white gold, diamonds","Love necklace, 18K white gold, set with 2 brilliant-cut diamonds totaling 0.03 carats. Inner diameter: 7.8 mm. Chain length: 392 mm.",12.
+B7014200,necklaces,"Love necklace",3050,"yellow gold","Love necklace, 18K yellow gold. Inner diameter 16mm. Chain length: 420mm.",12.
+B7014400,necklaces,"Love necklace",3050,"pink gold","Love necklace, 18K rose gold. Inner diameter 16mm. Chain length: 420mm.",12.
+B7219700,necklaces,"Love necklace, 6 diamonds",3150,"pink gold, white gold, diamonds","Love necklace, 18K rose gold, 18K white gold, set with 6 brilliant-cut diamonds totaling 0.01 carats. Mini cicle inner diameter: 5.6mm Baby love inner diameter: 8mm Chain length: 370mm.",12.
+B7014300,necklaces,"Love necklace",3250,"white gold","Love necklace, 18K white gold. Inner diameter 16mm. Chain length: 420mm.",12.
+B7014500,necklaces,"Love necklace, 3 diamonds",4000,"yellow gold, diamonds","Love necklace, 18K yellow gold, set with 3 brilliant-cut diamonds totaling 0.07 carats. Inner diameter 16mm. Chain length: 420mm.",12.
+B7014700,necklaces,"Love necklace, 3 diamonds",4000,"pink gold, diamonds","Love necklace, 18K rose gold, set with 3 brilliant-cut diamonds totaling 0.07 carats. Inner diameter 16mm. Chain length: 420mm.",12.
+B7013800,necklaces,"Love necklace, diamonds",4200,"yellow gold, diamonds","Love necklace, 18K yellow gold, set with 18 brilliant-cut diamonds totaling 0.22 carats. Width: 2.65 mm. Inner diameter: 7.6 mm. Chain length: 420 mm.",12.
+B7013900,necklaces,"Love necklace, diamonds",4200,"pink gold, diamonds","Love necklace, 18K rose gold, set with 18 brilliant-cut diamonds totaling 0.22 carats. Width: 2.65mm. Inner diameter 7.6mm. Chain length: 420mm.",12.
+B7013700,necklaces,"Love necklace, diamonds",4500,"white gold, diamonds","Love necklace, 18K white gold, set with 18 brilliant-cut diamonds totaling 0.22 carats. Width: 2.65 mm. Inner diameter: 7.6 mm. Chain length: 420 mm.",12.
+B7224528,necklaces,"Love necklace",5050,"pink gold, diamonds","Love necklace, 18K pink gold, set with 48 brilliant-cut diamonds totaling 0.30 carats. Width: 2.65 mm. Inner diameter: 7.6 mm. Chain length: 420 mm.",12.
+B7014900,necklaces,"Love necklace, 6 diamonds",5100,"white gold, diamonds","Love necklace, 18K white gold, set with 6 brilliant-cut diamonds totaling 0.15 carats. Inner diameter 16mm.",12.
+B7216300,necklaces,"Love necklace, diamond-paved",5400,"white gold, diamonds","Love necklace, 18K white gold, set with 48 brilliant-cut diamonds totaling 0.30 carats. Inner diameter 7.7mm. Chain length: 380mm.",12.
+B7058400,necklaces,"Love necklace, diamond-paved",7450,"yellow gold, diamonds","Love necklace, 18K yellow gold, set with 54 brilliant-cut diamonds totaling 0.34 carat.",12.
+B7224527,necklaces,"Love necklace",7450,"pink gold, diamonds","Love necklace, 18K rose gold, set with 54 brilliant-cut diamonds totaling 0.34 carats. Inner diameter 15.95mm. Chain length: 420mm.",12.
+B7058000,necklaces,"Love necklace, diamond-paved",8000,"white gold, diamonds","Love necklace, 18K white gold, set with 54 brilliant-cut diamonds totaling 0.34 carats. Inner diameter 15.95mm. Chain length: 420mm.",12.
+N7424227,necklaces,"Cactus de Cartier Necklace",16100,"yellow gold, diamonds","Cactus de Cartier necklace, 18K yellow gold, set with 6 brilliant-cut diamonds totaling 0.40 carat.",12.
+N7424240,necklaces,"Cactus de Cartier Necklace",16100,"pink gold, spinels, diamonds","Cactus de Cartier necklace, 18K pink gold, set with 8 spinels and 11 brilliant-cut diamonds totaling 0.19 carats.",12.
+N7424289,necklaces,"Cactus de Cartier Necklace",46900,"yellow gold, diamonds","Cactus de Cartier necklace, 18K yellow gold, set with 123 brilliant-cut diamonds totaling 2.90 carats.",12.
+B7224584,necklaces,"Cactus de Cartier Necklace",2960,"yellow gold, diamonds","Cactus de Cartier necklace, 18K yellow gold, set with 1 brilliant-cut diamond of 0.01 carats.",12.
+B7224562,necklaces,"Cactus de Cartier Necklace",4200,"pink gold, diamond","Cactus de Cartier necklace, 18K pink gold, set with 1 brilliant-cut diamond totaling 0.018 carats.",12.
+N7424286,necklaces,"Cactus de Cartier Necklace",8150,"yellow gold, aventurine, diamonds","Cactus de Cartier necklace, 18K yellow gold, set with 2 aventurines and 5 brilliant-cut diamonds totaling 0.09 carats.",12.
+H7000320,necklaces,"Cactus de Cartier Necklace",263000,"yellow gold, chrysoprase, lapis lazuli, diamonds","Cactus de Cartier necklace, 18K yellow gold, set with 80 chrysoprases, 77 lapis lazulis and 260 brilliant-cut diamonds totaling 5.18 carats.",12.
+H7000156,necklaces,"Cactus de Cartier Necklace",342000,"yellow gold, emeralds, diamonds","Cactus de Cartier necklace, 18K yellow gold, emeralds, set with 204 brilliant-cut diamonds totaling 8.00 carats.",12.
+N7424212,necklaces,"Panthère de Cartier necklace",82500,"white gold, emeralds, diamonds, onyx","Panthère de Cartier necklace, 18K white gold, set with 309 brilliant-cut diamonds totaling 3.24 carats, emerald eyes, onyx.",12.
+B7224600,necklaces,"Panthère de Cartier necklace",9250,"white gold, black lacquer, emeralds, diamonds","Panthère de Cartier necklace, 18K white gold, black lacquer, set with 77 brilliant-cut diamonds (0.31 carats) and emeralds.",12.
+B7224538,necklaces,"Panthère de Cartier necklace",9350,"pink gold, tsavorite garnets, diamonds","Panthère de Cartier necklace, 18K pink gold, black lacquer, set with a tsavorite garnet and 19 brilliant-cut diamonds totaling 0.07 carats.",12.
+B7224539,necklaces,"Panthère de Cartier necklace",9350,"pink gold, tsavorite garnets, diamonds","Panthère de Cartier necklace, 18K pink gold, black lacquer, set with a tsavorite garnet and 19 brilliant-cut diamonds totaling 0.07 carats.",12.
+B7224737,necklaces,"Panthère de Cartier necklace",9350,"yellow gold, tsavorite garnets, diamonds","Panthère de Cartier necklace, 18K yellow gold, black lacquer, set with one tsavorite garnet and 19 brilliant-cut diamonds totaling 0.07 carats.",12.
+B7224738,necklaces,"Panthère de Cartier necklace",9350,"yellow gold, tsavorite garnets, diamonds","Panthère de Cartier necklace, 18K yellow gold, black lacquer, set with one tsavorite garnet and 19 brilliant-cut diamonds totaling 0.07 carats.",12.
+N7424210,necklaces,"Panthère de Cartier necklace",18400,"yellow gold, tsavorite garnets, onyx","Panthère de Cartier necklace, 18K yellow gold, set with tsavorite garnets and an onyx nose.",12.
+N7424121,necklaces,"Panthère de Cartier necklace",24000,"yellow gold, black lacquer, tsavorite garnets, onyx, diamonds","Panthère de Cartier necklace, 18K yellow gold, black lacquer, set with 36 brilliant-cut diamonds (0.24 carats), tsavorite garnets and onyx.",12.
+N7424239,necklaces,"Panthère de Cartier necklace",24000,"pink gold, tsavorite garnets, onyx, black lacquer, diamonds.","Panthère de Cartier necklace, 18K pink gold, black lacquer, set with 36 brilliant-cut diamonds (0.24 carats), tsavorite garnets and onyx.",12.
+N7059200,necklaces,"Panthère de Cartier necklace",25900,"yellow gold, lacquer, diamonds, tsavorite garnet","Necklace, 18K yellow gold, black lacquer, set with 32 brilliant-cut diamonds totaling 0.23 carat. Tsavorite garnet, onyx.",12.
+N7424127,necklaces,"Panthère de Cartier necklace",27300,"white gold, diamonds, emeralds, onyx","Necklace, 18K white gold, set with 258 brilliant-cut diamonds totaling 1.69 carats. Emeralds, onyx.",12.
+N7424120,necklaces,"Panthère de Cartier necklace",28200,"yellow gold, black lacquer, citrine, tsavorite garnets, diamonds","Panthère de Cartier necklace, 18K yellow gold, black lacquer, set with a citrine bead, tsavorite garnets and 5 brilliant-cut diamonds totaling 0.05 carat.",12.
+N7408338,necklaces,"Panthère de Cartier necklace",29600,"yellow gold, lacquer, diamonds, tsavorite garnet, onyx","Necklace, 18K yellow gold, black lacquer, set with 3 brilliant-cut diamonds totaling 0.16 carats. Tsavorite garnet, onyx.",12.
+N7424209,necklaces,"Panthère de Cartier necklace",52000,"white gold, emeralds, diamonds, onyx","Panthère de Cartier necklace, 18K white gold, set with 347 brilliant-cut diamonds totaling 0.93 carats, emeralds, onyx.",12.
+N7424119,necklaces,"Panthère de Cartier necklace",100000,"white gold, emeralds, onyx","Panthère de Cartier necklace, 18K white gold, set with 491 brilliant-cut diamonds totaling 3.39 carats, a faceted onyx bead, emeralds and onyx.",12.
+B7224700,necklaces,"Panthère de Cartier necklace",2990,"pink gold, black lacquer, tsavorite garnets","Panthère de Cartier necklace, 18K pink gold, black lacquer, tsavorite garnets.",12.
+B7221900,necklaces,"Panthère de Cartier necklace",8250,"yellow gold, tsavorite garnets, onyx","Panthère de Cartier necklace, 18K yellow gold. Tsavorite garnets, onyx.",12.
+N7424211,necklaces,"Panthère de Cartier necklace",19700,"non-rhodiumized white gold, tsavorite garnets, onyx","Panthère de Cartier necklace, non-rhodiumized 18K white gold, set with tsavorite garnets and an onyx nose.",12.
+N7412900,necklaces,"Panthère de Cartier necklace",25500,"yellow gold, ceramic, lacquer, tsavorite garnet, diamonds","18K yellow gold necklace set with ceramic ring, black lacquer spots, onyx nose, tsavorite garnet eyes and diamonds.",12.
+N7219900,necklaces,"Panthère de Cartier necklace",27300,"white gold, diamonds, emeralds, onyx","Necklace, 18K white gold, set with 258 brilliant-cut diamonds totaling 1.69 carats. Emeralds, onyx.",12.
+N7424122,necklaces,"Panthère de Cartier necklace",40900,"white gold, black lacquer, emeralds, onyx, diamonds","Panthère de Cartier necklace, 18K white gold, black lacquer, set with 176 brilliant-cut diamonds (1.10 carats), emeralds and onyx.",12.
+N7424213,necklaces,"Panthère de Cartier necklace",77500,"yellow gold, emeralds, onyx, diamonds.","Panthère de Cartier necklace, 18K yellow gold, set with 309 brilliant-cut diamonds totaling 3.24 carats, emerald eyes, onyx.",12.
+H7000013,necklaces,"Panthère de Cartier necklace",103000,"white gold, emeralds, onyx, diamonds","Panthère de Cartier necklace, 18K white gold, set with 614 brilliant-cut diamonds (4.23 carats), emeralds and onyx.",12.
+HP700855,necklaces,"Panthère de Cartier necklace",126000,"white gold, emeralds, ceramic, onyx, diamonds","Panthère de Cartier necklace, 18K white gold, black ceramic, set with 633 brilliant-cut diamonds totaling 6.05 carats. Emeralds, onyx.",12.
+H7000030,necklaces,"Panthère de Cartier necklace",202000,"white gold, emeralds, onyx, diamonds","Panthère de Cartier necklace, 18K white gold set with 817 brilliant-cut diamonds totaling 5.92 carats and five emeralds, onyx.",12.
+B7015500,necklaces,"Caresse d'Orchidées par Cartier necklace",3050,"pink gold, diamond","Caresse d'Orchidées par Cartier necklace, medium model, 18K pink gold, set with 1 brilliant-cut diamond of 0.02 carat.",12.
+H7000080,necklaces,"Les Oiseaux Libérés necklace",200000,"pink gold, tsavorite garnet, spessartite garnet, mother-of-pearl, brown diamonds, yellow diamonds, orange diamonds, diamonds","Les Oiseaux Libérés necklace, 18K pink gold, gray mother-of-pearl, tsavorite garnet, mandarin garnet, 3 briolette-cut brown diamonds, set with 861 brilliant-cut white diamonds totaling 6.63 carats and 93 brilliant-cut yellow, brown and orange diamonds totaling 0.80 carats.",12.
+H3000008,necklaces,"Les Oiseaux Libérés necklace",228000,"white gold, emeralds, mother-of-pearl, diamonds","Les Oiseaux Libérés necklace, 18K white gold, gray mother-of pearl, emeralds, emerald beads, set with 477 brilliant-cut diamonds totaling 3.21 carats.",12.
+H3000006,necklaces,"Les Oiseaux Libérés necklace",263000,"white gold, rubies, emeralds, mother-of-pearl, diamonds","Les Oiseaux Libérés necklace, 18K white gold, gray mother-of pearl, emeralds, ruby beads, set with 477 brilliant-cut diamonds totaling 3.21 carats.",12.
+HP300100,necklaces,"Les Oiseaux Libérés necklace",263000,"white gold, emeralds, sapphire, mother-of-pearl, diamonds","Les Oiseaux Libérés necklace - 18K white gold, 5 emerald drops, mother-of-pearl beaks, sapphire eye, emerald eye, 899 brilliant-cut diamonds totaling 6.49 carats.",12.
+HP701146,necklaces,"Faune et Flore de Cartier necklace",331000,"platinum, emeralds, diamonds","Necklace - platinum, emeralds, one 0.13-carat tapered diamond, 662 brilliant-cut diamonds totaling 14.00 carats.",12.
+H7000087,necklaces,"Paris Nouvelle Vague necklace",106000,"pink gold, diamonds","Paris Nouvelle Vague necklace, 18K pink gold, set with 114 diamonds totaling 5.27 carats.",12.
+B7218200,necklaces,"Trinity necklace",1300,"white gold, yellow gold, pink gold","Trinity necklace, 18K white gold, 18K pink gold, 18K yellow gold, pink gold chain. Inner diameter: 7.3 mm. Neck size: 36-38-40.",12.
+B7224574,necklaces,"Trinity necklace",1460,"white gold, yellow gold, pink gold","Trinity necklace, 18K white gold, 18K pink gold, 18K yellow gold, pink gold chain. Inner diameter: 10.7 mm. Neck size: 39-42.",12.
+B7223500,necklaces,"Trinity necklace",1970,"white gold, yellow gold, pink gold, diamond","Trinity necklace, 18K white gold, 18K rose gold, 18K yellow gold, set with 1 brilliant-cut diamonds totaling 0.04 carats, rose gold chain. Inner diameter 7.3mm.",12.
+B3041200,necklaces,"Trinity necklace",2220,"white gold, yellow gold, pink gold","Trinity necklace, medium model, 18K white gold, 18K rose gold, 18K yellow gold. Comes on a cord. Inner diameter 19.4mm.",12.
+B7058800,necklaces,"Trinity necklace",2270,"white gold, yellow gold, pink gold","Trinity necklace, 18K yellow gold, 18K pink gold, 18K white gold.",12.
+B7058700,necklaces,"Trinity necklace",2910,"white gold, yellow gold, pink gold, diamonds","Trinity necklace, 18K white gold, 18K pink gold, 18K yellow gold, set with 5 brilliant-cut diamonds totaling 0.06 carats, pink gold chain. Width: 1.8 mm. Inner diameter: 13.4 mm.",12.
+B7224900,necklaces,"Trinity necklace",3100,"white gold, yellow gold, pink gold, diamond","Trinity necklace, 18K white gold, 18K pink gold, 18K yellow gold, set with 1 brilliant-cut diamond totaling 0.18 carats, pink gold chain. Inner diameter: 4.75 mm. Adjustable chain length: 38-41 cm.",12.
+B7224577,necklaces,"Trinity necklace",3750,"white gold, yellow gold, pink gold","Trinity de Cartier chain long necklace, 18K white gold, 18K pink gold, 18K yellow gold.",12.
+B7224532,necklaces,"Trinity necklace",4500,"white gold, diamonds, ceramic","Trinity necklace, 18K white gold, black ceramic, set with 14 brilliant-cut diamonds totaling 0.21 carats.",12.
+B3045500,necklaces,"Trinity necklace",5100,"white gold, ceramic, diamonds","Trinity necklace, small model, 18K white gold, black ceramic, set with 44 brilliant-cut diamonds totaling 0.19 carats. Inner diameter 15.4mm.",12.
+B7058500,necklaces,"Trinity necklace",6950,"white gold, yellow gold, pink gold, diamonds","Trinity necklace, 18K white gold, 18K rose gold, 18K yellow gold, set with 53 brilliant-cut diamonds totaling 0.22 carats, rose gold chain. Inner diameter 13.4mm.",12.
+N3027000,necklaces,"Trinity necklace",18200,"white gold, yellow gold, pink gold, diamonds","Trinity necklace, medium model, 18K white gold, 18K pink gold, 18K yellow gold, set with 144 brilliant-cut diamonds totaling 1.16 carats. Sold on a cord.",12.
+N3108500,necklaces,"Trinity necklace",18300,"white gold, ceramic, diamonds","Trinity necklace, very large model, 18K white gold, black ceramic, set with 166 brilliant-cut diamonds totaling 0.82 carat.",12.
+B7219200,necklaces,"Logo necklace",2010,"pink gold, diamonds","Double C de Cartier necklace, 18K pink gold, set with 5 brilliant-cut diamonds totaling 0.02 carat.",12.
+B7219300,necklaces,"Logo necklace",3250,"pink gold, diamonds","Double C de Cartier necklace, 18K pink gold, set with 37 brilliant-cut diamonds totaling 0.10 carat.",12.
+N7413100,necklaces,"C de Cartier necklace",32000,"white gold, diamonds","C de Cartier necklace, 18K white gold, set with 133 brilliant-cut diamonds totaling 3.71 carats.",12.
+B7215700,necklaces,"Diamants Légers necklace, SM",1290,"pink gold, diamond","Diamants Légers necklace, small model, 18K pink gold, set with a brilliant-cut diamond of 0.09 carat.",12.
+B7215800,necklaces,"Diamants Légers necklace, SM",1290,"yellow gold, diamond","Diamants Légers necklace, small model, 18K yellow gold, set with a brilliant-cut diamond of 0.09 carat.",12.
+B7215900,necklaces,"Diamants Légers necklace, SM",1380,"white gold, diamond","Diamants Légers necklace, small model, 18K white gold, set with a brilliant-cut diamond of 0.09 carats.",12.
+B7215500,necklaces,"Diamants Légers necklace, LM",2390,"yellow gold, diamond","Diamants Légers necklace, large model, 18K yellow gold, set with a brilliant-cut diamond of 0.18 carat.",12.
+B7215600,necklaces,"Diamants Légers necklace, LM",2390,"pink gold, diamond","Diamants Légers necklace, large model, 18K pink gold, set with a brilliant-cut diamond of 0.18 carat.",12.
+B7215400,necklaces,"Diamants Légers necklace, LM",2550,"white gold, diamond","Diamants Légers necklace, large model, 18K white gold, set with a brilliant-cut diamond of 0.18 carat.",12.
+B3045700,necklaces,"Etincelle de Cartier necklace",4800,"pink gold, diamonds","Etincelle de Cartier necklace, 18K pink gold, set with 32 brilliant-cut diamonds totaling 0.14 carats.",12.
+B7224570,necklaces,"Etincelle de Cartier necklace",4900,"pink gold, diamonds","Etincelle de Cartier necklace, 18K pink gold, set with 12 brilliant-cut diamonds totaling 0.45 carats.",12.
+B3045800,necklaces,"Etincelle de Cartier necklace",5100,"white gold, diamonds","Etincelle de Cartier necklace, 18K white gold, set with 32 brilliant-cut diamonds totaling 0.14 carats.",12.
+B7224571,necklaces,"Etincelle de Cartier necklace",5250,"white gold, diamonds","Etincelle de Cartier necklace, 18K white gold, set with 12 brilliant-cut diamonds totaling 0.45 carats.",12.
+N7424283,necklaces,"Reflection de Cartier necklace",11200,"white gold, diamonds","Reflection de Cartier necklace, 18K white gold, set with 1 troidia-cut diamond of 0.22 carat, 1 princess-cut diamond of 0.23 carat and 5 baguette-cut diamonds totaling 0.36 carat.",12.
+N7424322,necklaces,"Etincelle de Cartier necklace",12800,"pink gold, diamonds","Étincelle de Cartier necklace, 18K pink gold, set with 97 brilliant-cut pavé diamonds totaling 1.16 carats.",12.
+N7424287,necklaces,"Etincelle de Cartier necklace",13700,"white gold, diamonds","Etincelle de Cartier necklace, 18K white gold, set with 97 brilliant-cut pavé diamonds totaling 1.17 carats",12.
+N3108600,necklaces,"Etincelle de Cartier necklace",16300,"white gold, diamonds","Etincelle de Cartier necklace, 18K white gold, set with 140 brilliant-cut diamonds totaling 1.15 carats.",12.
+N7424151,necklaces,"Essential Lines necklace",49200,"pink gold, diamonds","Essential Lines necklace, 18K pink gold, set with 135 brilliant-cut diamonds totaling 7.41 carats.",12.
+N7424235,necklaces,"Essential Lines necklace",65000,"white gold, diamonds, sapphires","Essential Lines necklace, 18K white gold, set with 61 brilliant-cut diamonds totaling 5.49 carats, and 60 brilliant-cut sapphires.",12.
+N7424157,necklaces,"Essential Lines necklace",73000,"white gold, diamonds","Essential Lines necklace, 18K white gold, set with 121 brilliant-cut diamonds totaling 10.89 carats.",12.
+B7224573,necklaces,"Etincelle de Cartier necklace",3750,"white gold, diamonds","Etincelle de Cartier necklace, 18K white gold, set with 6 brilliant-cut diamonds totaling 0.26 carats.",12.
+N7424261,necklaces,"Essential Lines necklace",39300,"white gold, sapphires","Essential Lines necklace, 18K white gold, set with 135 brilliant-cut sapphires.",12.
+N7424155,necklaces,"Essential Lines necklace",53000,"white gold, diamonds","Essential Lines necklace, 18K white gold, set with 135 brilliant-cut diamonds totaling 7.41 carats.",12.
+N7424259,necklaces,"Essential Lines necklace",54500,"white gold, sapphires","Essential Lines necklace, 18K white gold, set with 121 brilliant-cut sapphires.",12.
+H7000130,necklaces,"Reflection de Cartier necklace",370000,"white gold, diamonds","Reflection de Cartier necklace, 18K white gold, set with 264 brilliant-cut diamonds totaling 11.40 carats, and with 132 baguette-cut diamonds totaling 14.25 carats.",12.
+B7224513,necklaces,"Juste un Clou necklace",3850,"pink gold, diamonds","Juste un Clou necklace, 18K rose gold, set with 14 brilliant-cut diamonds totaling 0.12 carats. Width: 2.2mm. Inner diameter 14.2mm. Adjustable chain length 39-41mm.",12.
+B3047000,necklaces,"Juste un Clou necklace",6350,"pink gold, diamonds","Juste un Clou necklace, 18K rose gold, set with 36 brilliant-cut diamonds totaling 0.38 carats. Width: 2.2mm. Inner diameter 14.2mm. Adjustable chain length 39-41cm.",12.
+B7224511,necklaces,"Juste un Clou necklace",6350,"yellow gold, diamonds","Juste un Clou necklace, 18K yellow gold, set with 36 brilliant-cut diamonds totaling 0.38 carat.",12.
+N7413400,necklaces,"Juste un Clou necklace",29100,"pink gold, diamonds","Juste un Clou necklace, 18K pink gold, set with 111 brilliant-cut diamonds (1.19 carats).",12.
+N7424270,necklaces,"Juste un Clou necklace",93500,"yellow gold, diamonds","Juste un Clou necklace, large model, 18K yellow gold, set with 162 brilliant-cut diamonds totaling 3.17 carats.",12.
+N7424165,necklaces,"Juste un Clou necklace",27100,"yellow gold","Juste un Clou necklace, small model, 18K yellow gold.",12.
+N7424243,necklaces,"Juste un Clou necklace",93500,"pink gold, diamonds","Juste un Clou necklace, large model, 18K pink gold, set with 162 brilliant-cut diamonds totaling 3.17 carats.",12.
+B7009100,necklaces,"Santos de Cartier necklace",8000,"white gold","Santos-Dumont chain necklace, 18K white gold.",12.
+B7060900,necklaces,"Chain necklace",1250,"white gold, yellow gold, pink gold","Chain necklace, 18K white gold, 18K pink gold, 18K yellow gold.",12.
+B7224736,necklaces,"Chain necklace",1250,"yellow gold","Chain necklace, 18K yellow gold.",12.
+B7012000,necklaces,"Chain necklace",1340,"white gold","Chain necklace, 18K white gold.",12.
+B7009000,necklaces,"Santos de Cartier necklace",7450,"yellow gold","Santos-Dumont chain necklace, 18K yellow gold.",12.
+N7408300,necklaces,"Maillon Panthère thin necklace, 3 diamond-paved rows",87000,"white gold, diamonds","Maillon Panthère necklace, 18K white gold, set with 821 brilliant-cut diamonds totaling 6.43 carats.",12.
+B3040400,necklaces,"Symbols necklace",1580,"pink gold, diamonds","C Heart of Cartier necklace, extra-small model, 18K pink gold, set with a brilliant-cut diamond of 0.01 carat.",12.
+B7221600,necklaces,"Symbols necklace",1690,"white gold, diamond","C Heart of Cartier pendant, extra-small model, 18K white gold set with a brilliant-cut diamond of 0.01 carat.",12.
+B7221700,necklaces,"Symbols necklace",2440,"white gold, diamonds","Cross necklace, 18K white gold, set with 11 brilliant-cut diamonds totaling 0.13 carat.",12.
+B3153118,necklaces,"Hearts and Symbols pendant",2810,"pink gold, diamonds","Hand of Fatima necklace, 18K pink gold, set with 14 brilliant-cut diamonds totaling 0.17 carats",12.
+B3153119,necklaces,"Hearts and Symbols pendant",3050,"white gold, diamond","Hand of Fatima necklace, 18K white gold, set with 14 brilliant-cut diamonds totaling 0.17 carats",12.
+B3153116,necklaces,"Hearts and Symbols pendant",2490,"pink gold, diamonds","Etoile necklace, 18K pink gold, set with 12 brilliant-cut diamonds totaling 0.15 carats.",12.
+B3153117,necklaces,"Hearts and Symbols pendant",2670,"white gold, diamonds","Etoile necklace, 18K white gold, set with 12 brilliant-cut diamonds totaling 0.15 carats.",12.
+N7424320,necklaces,"Agrafe necklace",17600,"pink gold, diamonds","Agrafe necklace, 18K pink gold, set with 73 brilliant-cut pavé diamonds totaling 1.48 carats.",12.
+N7424321,necklaces,"Agrafe necklace",18900,"white gold, diamonds","Agrafe necklace, 18K white gold, set with 73 brilliant-cut pavé diamonds totaling 1.48 carats.",12.
+N3029200,necklaces,"Agrafe necklace",17600,"pink gold, diamonds","Agrafe necklace, 18K pink gold, set with 70 brilliant-cut diamonds totaling 1.51 carats.",12.
+N3028000,necklaces,"Agrafe necklace",18900,"white gold, diamonds","Agrafe necklace, 18K white gold, set with 70 brilliant-cut diamonds totaling 1.51 carats.",12.
+N7424294,necklaces,"Agrafe necklace",37000,"pink gold, diamonds","Agrafe Résille necklace, 18K pink gold, set with 78 brilliant-cut diamonds totaling 2.85 carats.",12.
+N7424296,necklaces,"Agrafe necklace",67500,"pink gold, diamonds","Agrafe Résille necklace, 18K pink gold, set with 102 brilliant-cut diamonds totaling 5.10 carats.",12.
+H7000014,necklaces,"Agrafe necklace",97000,"pink gold, diamonds","Agrafe Résille necklace, 18K pink gold, set with 197 brilliant-cut diamonds totaling 6.46 carats.",12.
+H7000544,necklaces,"Pluie de Cartier necklace",103000,"white gold, diamonds","Pluie de Cartier necklace, 18K white gold, set with diamonds.",12.
+N7424285,necklaces,"Pluie de Cartier necklace",29600,"white gold, diamonds","Pluie de Cartier necklace, 18K white gold, set with 6 pear-shaped diamonds totaling 1.76 carats and 14 brilliant-cut diamonds totaling 0.42 carat.",12.
+N7424284,necklaces,"Pluie de Cartier necklace",9950,"white gold, diamonds","Pluie de Cartier necklace, 18K white gold, set with 17 brilliant-cut diamonds totaling 0.96 carat.",12.
+H7000308,necklaces,"Pluie de Cartier necklace",263000,"white gold, diamonds","Pluie de Cartier necklace, 18K white gold, set with diamonds totaling 27.7 carats.",12.
+N7424312,necklaces,"Clash de Cartier necklace Diamonds",6250,"pink gold, diamonds","Clash de Cartier necklace, 18K pink gold, set with 10 brilliant-cut diamonds totaling 0.29 carats. Pendant size: 37mm. Width: 6.8mm. Adjustable chain length: 38-41cm",12.
+B7224744,necklaces,"Clash de Cartier necklace Small Model",2370,"pink gold","Clash de Cartier necklace, small model, 18K pink gold. Pendant size: 41.5mm. Width: 6.4mm. Adjustable chain length: 38-41cm",12.
+B7224745,necklaces,"Clash de Cartier necklace Medium Model",3500,"pink gold","Clash de Cartier necklace, medium model, 18K pink gold. Pendant size: 44mm. Width: 8mm. Adjustable chain length: 38-41cm",12.
+B8301238,earrings,"Amulette de Cartier earrings, XS model",2910,"yellow gold, white mother-of-pearl, diamonds","Amulette de Cartier earrings, XS model, 18K yellow gold, white mother-of-pearl, set with 2 brilliant-cut diamonds totaling 0.05 carats. Diameter of motifs: 12 mm.",12.
+B8301230,earrings,"Amulette de Cartier earrings, XS model",4150,"pink gold, onyx, diamonds","Amulette de Cartier earrings, XS model, 18K pink gold, onyx, set with 4 brilliant-cut diamonds totaling 0.14 carats. Diameter of motifs: 12 mm.",12.
+B8301239,earrings,"Amulette de Cartier earrings, XS model",2910,"pink gold, onyx, diamonds","Amulette de Cartier earrings, XS model, 18K pink gold, onyx, set with 2 brilliant-cut diamonds totaling 0.05 carats. Diameter of motifs: 12 mm.",12.
+B8301229,earrings,"Amulette de Cartier earrings, XS model",4150,"yellow gold, white mother-of-pearl, diamonds","Amulette de Cartier earrings, XS model, 18K yellow gold, white mother-of-pearl, set with 4 brilliant-cut diamonds totaling 0.14 carats. Diameter of motifs: 12 mm.",12.
+B8301251,earrings,"Amulette de Cartier earrings, XS model",6700,"pink gold, onyx, white mother-of-pearl, diamond","Amulette de Cartier earrings, extra-small model, 18K pink gold, onyx, white mother-of-pearl, each set with 2 brilliant-cut diamond totaling 0.11 carat. Motif diameter: 12 mm.",12.
+B8301254,earrings,"Love earrings",1370,"pink gold","Love earrings, 18K rose gold. Inner diameter 7.2mm.",12.
+B8301255,earrings,"Love earrings",1370,"yellow gold","Love earrings, 18K yellow gold. Inner diameter 7.2mm.",12.
+B8301256,earrings,"Love earrings",1470,"white gold","Love earrings, 18K white gold. Inner diameter 7.2mm.",12.
+B8301424,earrings,"Love single earring",1750,"white gold, diamond","Love earring, 18K white gold, set with 12 brilliant-cut diamonds totaling 0.05 carat. Diameter: 12 mm. Sold individually.",12.
+B8028800,earrings,"Love earrings",1770,"yellow gold","Love earrings, 18K yellow gold. Width: 2.65mm. Inner diameter 10mm.",12.
+B8029000,earrings,"Love earrings",1770,"pink gold","Love earrings, 18K rose gold. Width: 2.65mm. Inner diameter 10mm.",12.
+B8028900,earrings,"Love earrings",1890,"white gold","Love earrings, 18K white gold. Width: 2.65mm. Inner diameter 10mm.",12.
+B8022500,earrings,"Love earrings",3150,"yellow gold","Love earrings, 18K yellow gold. Width: 5.7mm.",12.
+B8028200,earrings,"Love earrings",3750,"yellow gold","Love earrings, 18K yellow gold. Width: 3.6mm. Inner diameter 32.6mm.",12.
+B8028300,earrings,"Love earrings",4000,"white gold","Love earrings, 18K white gold. Width: 3.6mm. Inner diameter 32.6mm.",12.
+B8301433,earrings,"Love earrings",4050,"pink gold, diamond","Love earrings, 18K pink gold, each set with 3 brilliant-cut diamonds totaling 0.13 carat.",12.
+B8022900,earrings,"Love earrings, 2 diamonds",4650,"yellow gold, diamonds","Love earrings, 18K yellow gold, each set with 1 brilliant-cut diamond totaling 0.07 carats. Width: 5.7mm.",12.
+B8301218,earrings,"Love earrings",4650,"pink gold, diamonds","Love earrings, 18K rose gold, each set with 1 brilliant-cut diamonds totaling 0.07 carats. Width: 5.7mm.",12.
+B8022800,earrings,"Love earrings, 2 diamonds",5000,"white gold, diamonds","Love earrings, 18K white gold, each set with 1 brilliant-cut diamond totaling 0.07 carats. Width: 5.7mm.",12.
+N8515192,earrings,"Love earrings",10400,"pink gold, diamond","Love earrings, 18K pink gold, each set with 48 brilliant-cut diamonds totaling 0.51 carat.",12.
+N8515193,earrings,"Love earrings",11100,"white gold, diamond","Love earrings, 18K white gold, each set with 48 brilliant-cut diamonds totaling 0.51 carat.",12.
+B8044700,earrings,"Panthère de Cartier earrings",11200,"yellow gold, lacquer, diamonds, tsavorite garnets, onyx","Panthère de Cartier earrings, 18K yellow gold, black lacquer, each set with 5 brilliant-cut diamonds totaling 0.01 carat. Tsavorite garnets, onyx.",12.
+N8050700,earrings,"Panthère de Cartier earrings",13700,"white gold, diamonds, emeralds, onyx","Panthère de Cartier earrings, 18K white gold, each set with 63 brilliant-cut diamonds totaling 0.38 carat. Emeralds, onyx.",12.
+N8515072,earrings,"Panthère de Cartier earrings",24700,"yellow gold, diamonds, tsavorite garnets, onyx","Panthère de Cartier drop earrings, 18K yellow gold, set with 34 brilliant-cut diamonds totaling 0.09 carats, tsavorite garnet eyes, onyx.",12.
+N8503200,earrings,"Panthère de Cartier earrings",37700,"white gold, diamonds, emeralds, onyx","Panthère de Cartier earrings, 18K white gold, each set with 76 brilliant-cut diamonds totaling 0.72 carat. Emeralds, onyx.",12.
+N8515073,earrings,"Panthère de Cartier earrings",49300,"white gold, emeralds, diamonds, onyx","Panthère de Cartier drop earrings, 18K white gold, set with 252 brilliant-cut diamonds totaling 1.48 carats, emerald eyes, onyx.",12.
+H8000330,earrings,"Panthère de Cartier earrings",70500,"white gold, emeralds, onyx, diamonds","Panthère de Cartier hoop earrings, 18K white gold, set with emerald eyes, onyx spots, onyx nose and 478 diamonds totaling 3.11 carats",12.
+HP800976,earrings,"Panthère de Cartier earrings",160000,"white gold, emeralds, onyx, diamonds","Earrings - 18K white gold, 10 emeralds, 444 brilliant-cut diamonds totaling 5.95 carats, onyx.",12.
+HP800918,earrings,"Panthère de Cartier earrings",177000,"platinum, sapphires, onyx, diamonds","Earrings - 950‰ platinum, 327 brilliant-cut diamonds totaling 4.65 carats, sapphires, onyx.",12.
+B8033100,earrings,"Caresse d’Orchidées par Cartier earrings",3300,"pink gold, diamonds","Caresse d'Orchidées par Cartier earrings, small model, 18K pink gold, each set with 1 brilliant-cut diamond of 0.01 carat.",12.
+HP800935,earrings,"Faune et Flore de Cartier earrings",85500,"white gold, diamonds","Earrings - 950‰ platinum, emeralds, brilliant-cut diamonds.",12.
+B8032200,earrings,"Caresse d’Orchidées par Cartier earrings",11100,"white gold, diamonds","Caresse d'Orchidées par Cartier earrings, small model, 18K white gold, each set with 27 brilliant-cut diamonds totaling 0.31 carat.",12.
+H8000125,earrings,"Les Oiseaux Libérés earrings",93500,"white gold, emeralds, sapphires, mother-of-pearl, diamonds","Les Oiseaux Libérés earrings, 18K white gold, gray mother-of pearl, emerald, sapphire, 2 drop-shaped emeralds, each set with 186 brilliant-cut diamonds totaling 0.96 carats.",12.
+H8000128,earrings,"Les Oiseaux Libérés earrings",194000,"white gold, sapphires, emeralds, gray mother-of-pearl, diamonds","Les Oiseaux Libérés earrings, 18K white gold, gray mother-of pearl, emeralds, sapphire beads, each set with 202 brilliant-cut diamonds totaling 1.19 carats.",12.
+H8000129,earrings,"Les Oiseaux Libérés earrings",217000,"white gold, emeralds, mother-of-pearl, diamonds","Les Oiseaux Libérés earrings, 18K white gold, gray mother-of pearl, emeralds, emerald beads, each set with 202 brilliant-cut diamonds totaling 1.19 carats.",12.
+H8000127,earrings,"Les Oiseaux Libérés earrings",251000,"white gold, rubies, emeralds, mother-of-pearl, diamonds","Les Oiseaux Libérés earrings, 18K white gold, gray mother-of pearl, emeralds, ruby beads, each set with 202 brilliant-cut diamonds totaling 1.19 carats.",12.
+N8515099,earrings,"Cactus de Cartier earrings",30800,"pink gold, spinels, diamonds","Cactus de Cartier earrings, 18K pink gold, each set with 4 spinels and 4 brilliant-cut diamonds totaling 0.07 carats.",12.
+H8000238,earrings,"Cactus de Cartier earrings",57000,"yellow gold, emeralds, carnelians, diamonds","Cactus de Cartier earrings, 18K yellow gold, emeralds, carnelians, each set with 11 brilliant-cut diamonds totaling 0.19 carats.",12.
+N8515141,earrings,"Cactus de Cartier earrings",60500,"yellow gold, diamonds","Cactus de Cartier earrings, 18K yellow gold, set with 170 brilliant-cut diamonds totaling 3.50 carats.",12.
+B8301257,earrings,"Cactus de Cartier earrings",5550,"yellow gold, diamonds","Cactus de Cartier earrings, 18K yellow gold, set with 4 brilliant-cut diamonds totaling 0.07 carats.",12.
+B8301248,earrings,"Cactus de Cartier earrings",10500,"pink gold, diamonds","Cactus de Cartier earrings, 18K pink gold, each set with 3 brilliant-cut diamonds totaling 0.05 carats.",12.
+N8515136,earrings,"Cactus de Cartier earrings",11800,"yellow gold, aventurine, diamonds","Cactus de Cartier earrings, 18K yellow gold, set with 4 aventurines and 8 brilliant-cut diamonds totaling 0.14 carat.",12.
+N8515093,earrings,"Cactus de Cartier earrings",30800,"yellow gold, diamonds","Cactus de Cartier earrings, 18K yellow gold, each set with 12 brilliant-cut diamonds totaling 0.23 carats.",12.
+B8043200,earrings,"Trinity earrings",2040,"white gold, yellow gold, pink gold, diamonds","Trinity earrings, 18K white gold, 18K rose gold, 18K yellow gold, each set with 1 brilliant-cut diamonds totaling 0.04 carats. Inner diameter 7.3mm.",12.
+80083231,earrings,"Trinity earrings",2300,"white gold, yellow gold, pink gold","Trinity earrings, 18K white gold, 18K rose gold, 18K yellow gold. Width: 3.3mm. Inner diameter 13.2mm.",12.
+B8031700,earrings,"Trinity earrings",5600,"white gold, yellow gold, pink gold, diamonds","Trinity earrings, 18K white gold, 18K pink gold, 18K yellow gold, each set with 6 brilliant-cut diamonds totaling 0.08 carat.",12.
+B8045300,earrings,"Trinity earrings",5900,"white gold, yellow gold, pink gold, diamonds","Trinity earrings, 18K white gold, 18K rose gold, 18K yellow gold, set 1 brilliant-cut diamonds totaling 0.18 carats. Inner diameter 5.3mm.",12.
+B8017100,earrings,"Trinity earrings",1250,"white gold, yellow gold, pink gold","Trinity earrings, 18K white gold, 18K rose gold, 18K yellow gold. Inner diameter 10mm.",12.
+B8301224,earrings,"Trinity earrings",8500,"white gold, diamonds, ceramic","Trinity earrings, 18K white gold, black ceramic, set with 28 brilliant-cut diamonds totaling 0.43 carats.",12.
+B8031900,earrings,"Trinity earrings",13600,"white gold, yellow gold, pink gold, diamonds","Trinity earrings, 18K white gold, 18K rose gold, 18K yellow gold, each set with 71 brilliant-cut diamonds totaling 0.08 carats. Inner diameter 13.4mm.",12.
+N8500300,earrings,"Trinity earrings",13600,"white gold, ceramic, diamonds","Trinity earrings, 18K white gold, black ceramic, each set with 44 brilliant-cut diamonds totaling 0.19 carat.",12.
+N8515098,earrings,"Etincelle de Cartier earrings",12700,"pink gold, diamonds","Etincelle de Cartier hoop earrings, medium model, 18K pink gold, each set with 91 brilliant-cut diamonds totaling 0.49 carats.",12.
+N8515101,earrings,"Etincelle de Cartier earrings",7000,"white gold, diamonds","Etincelle de Cartier earrings, 18K white gold, each set with 6 brilliant-cut diamonds totaling 0.26 carats.",12.
+B8043400,earrings,"Saphirs Légers de Cartier earrings",1420,"pink gold, pink sapphires","Saphirs Légers de Cartier earrings, 18K pink gold, each set with a pink sapphire.",12.
+B8301405,earrings,"Diamants Légers earrings",1840,"yellow gold, diamonds","Diamants Légers earrings, 18K yellow gold, each set with a brilliant-cut diamond totaling 0.18 carat.",12.
+B8301406,earrings,"Diamants Légers earrings",1840,"pink gold, diamonds","Diamants Légers earrings, 18K pink gold, each set with a brilliant-cut diamond totaling 0.18 carat.",12.
+B8301407,earrings,"Diamants Légers earrings",1980,"white gold, diamonds","Diamants Légers earrings, 18K white gold, each set with a brilliant-cut diamond totaling 0.09 carat.",12.
+B8041500,earrings,"Diamants Légers earrings, MM",2750,"pink gold, diamonds","Diamants Légers earrings, 18K pink gold, each set with a brilliant-cut diamond totaling 0.26 carat.",12.
+B8041600,earrings,"Diamants Légers earrings, MM",2750,"yellow gold, diamonds","Diamants Légers earrings, 18K yellow gold, each set with a brilliant-cut diamond of 0.26 carat.",12.
+B8041400,earrings,"Diamants Légers earrings, MM",2940,"white gold, diamonds","Diamants Légers earrings, 18K white gold, each set with a brilliant-cut diamond of 0.26 carat.",12.
+B8301244,earrings,"Etincelle de Cartier earrings",3350,"pink gold, diamonds","Etincelle de Cartier hoop earrings, small model, 18K pink gold, each set with 19 brilliant-cut diamonds totaling 0.13 carats.",12.
+B8301245,earrings,"Etincelle de Cartier earrings",3350,"yellow gold, diamonds","Etincelle de Cartier hoop earrings, small model, 18K yellow gold, each set with 19 brilliant-cut diamonds totaling 0.13 carats.",12.
+B8301226,earrings,"Etincelle de Cartier earrings, small model",3550,"white gold, diamonds","Etincelle de Cartier hoop earrings, small model, 18K white gold, each set with 19 brilliant-cut diamonds totaling 0.13 carats.",12.
+B8301246,earrings,"Etincelle de Cartier earrings",7350,"pink gold, diamonds","Etincelle de Cartier hoop earrings, medium model, 18K pink gold, each set with 37 brilliant-cut diamonds totaling 0.33 carats.",12.
+B8301247,earrings,"Etincelle de Cartier earrings",7350,"yellow gold, diamonds","Etincelle de Cartier hoop earrings, medium model, 18K yellow gold, each set with 37 brilliant-cut diamonds totaling 0.33 carats.",12.
+B8301227,earrings,"Etincelle de Cartier earrings, medium model",7850,"white gold, diamonds","Etincelle de Cartier hoop earrings, medium model, 18K white gold, each set with 37 brilliant-cut diamonds totaling 0.33 carats.",12.
+N8515102,earrings,"Etincelle de Cartier earrings",9300,"pink gold, diamonds","Etincelle de Cartier earrings, 18K pink gold, each set with 12 brilliant-cut diamonds totaling 0.45 carats.",12.
+B8043100,earrings,"Etincelle de Cartier earrings, small model",9600,"white gold, diamonds","Étincelle de Cartier earrings, small model, 18K white gold, each set with 46 diamonds totaling 0.36 carats.",12.
+N8515103,earrings,"Etincelle de Cartier earrings",9950,"white gold, diamonds","Etincelle de Cartier earrings, 18K white gold, each set with 12 brilliant-cut diamonds totaling 0.45 carats.",12.
+N8515097,earrings,"Etincelle de Cartier earrings",12700,"yellow gold, diamonds","Etincelle de Cartier hoop earrings, medium model, 18K yellow gold, each set with 91 brilliant-cut diamonds totaling 0.49 carats.",12.
+N8515087,earrings,"Etincelle de Cartier earrings, medium model",13600,"white gold, diamonds","Etincelle de Cartier hoop earrings, medium model, 18K white gold, each set with 91 brilliant-cut diamonds totaling 0.49 carats.",12.
+N8515095,earrings,"Etincelle de Cartier earrings",14700,"pink gold, diamonds","Etincelle de Cartier hoop earrings, large model, 18K pink gold, each set with 60 brilliant-cut diamonds totaling 0.70 carats.",12.
+N8515096,earrings,"Etincelle de Cartier earrings",14700,"yellow gold, diamonds","Etincelle de Cartier hoop earrings, large model, 18K yellow gold, each set with 60 brilliant-cut diamonds totaling 0.70 carats.",12.
+N8515172,earrings,"Etincelle de Cartier earrings",19900,"white gold, diamonds","Étincelle de Cartier earrings, 18K white gold, each set with 2 square-cut diamonds totaling 0.32 carat and 15 brilliant-cut diamonds totaling 1.02 carats.",12.
+N8515137,earrings,"Etincelle de Cartier earrings",20400,"white gold, diamonds","Étincelle de Cartier earrings, 18K white gold, each set with 74 brilliant-cut diamonds totaling 1.73 carats.",12.
+N8515094,earrings,"Reflection de Cartier earrings",22400,"white gold, diamonds","Reflection de Cartier earrings, small model, 18K white gold, each set with 4 brilliant-cut diamonds totaling 0.34 carat and 4 baguette-cut diamonds totaling 0.90 carat.",12.
+N8515139,earrings,"Etincelle de Cartier earring",22400,"white gold, diamonds","Étincelle de Cartier ring, 18K white gold, set with 96 brilliant-cut diamonds totaling 1.90 carats.",12.
+N8515129,earrings,"Reflection de Cartier earrings",30800,"white gold, diamonds","Reflection de Cartier earrings, 18K white gold, each set with 5 baguette-cut diamonds totaling 1.12 carats and 10 brilliant-cut diamonds totaling 0.95 carats.",12.
+H8000215,earrings,"Reflection de Cartier earrings",65000,"white gold, diamonds","Reflection de Cartier earrings, large model, 18K white gold, each set with 19 brilliant-cut diamonds totaling 0.81 carats, and with 10 baguette-cut diamonds totaling 1.08 carats.",12.
+N8515086,earrings,"Etincelle de Cartier earrings, large model",15700,"white gold, diamonds","Etincelle de Cartier hoop earrings, large model, 18K white gold, each set with 60 brilliant-cut diamonds totaling 0.70 carats.",12.
+N8515133,earrings,"Reflection de Cartier earrings",17000,"white gold, diamonds","Reflection de Cartier earrings, 18K white gold, each set with 1 troidia-cut diamond, 2 princess-cut diamonds and 7 baguette-cut diamonds totaling 0.77 carats.",12.
+N8515190,earrings,"Etincelle de Cartier earrings",19100,"pink gold, diamonds","Étincelle de Cartier earrings, 18K pink gold, each set with 74 brilliant-cut diamonds totaling 1.73 carats.",12.
+N8515171,earrings,"Etincelle de Cartier earring",21200,"white gold, diamonds","Étincelle de Cartier ring, 18K white gold, set with 6 princess-cut diamonds totaling 0.39 carat and 34 brilliant-cut diamonds totaling 1.22 carats.",12.
+HP800859,earrings,"Diamond Collection earrings",57000,"platinum, diamonds","Earrings - platinum, 158 brilliant-cut diamonds totaling 5.06 carats.",12.
+H8000334,earrings,"Reflection de Cartier earrings",80000,"white gold, diamonds","Reflection de Cartier earring, large model, 18K white gold, set with 27 baguette-cut diamonds totaling 2.53 carats, 5 princess-cut diamonds totaling 1.53 carats and 2 troidia-cut diamonds totaling 0.89 carats.",12.
+H8000454,earrings,"Reflection de Cartier earrings",80000,"white gold, diamonds","Reflection de Cartier earring, large model, 18K white gold, set with 27 baguette-cut diamonds totaling 2.53 carats, 5 princess-cut diamonds totaling 1.53 carats and 2 troidia-cut diamonds totaling 0.89 carats.",12.
+B8041700,earrings,"C de Cartier earrings",2080,"pink gold, pearl","C de Cartier earrings, 18K pink gold, each set with an Akoya pearl.",12.
+B8041800,earrings,"C de Cartier earrings",2220,"white gold, pearl","C de Cartier earrings, 18K white gold, each set with an Akoya cultured pearl.",12.
+B8301234,earrings,"Juste un Clou earrings",2620,"pink gold","Juste un Clou hoop earrings, 18K rose gold. Width: 1.8mm. Inner diameter 12.75mm.",12.
+B8301235,earrings,"Juste un Clou earrings",2620,"yellow gold","Juste un Clou hoop earrings, 18K yellow gold. Width: 1.8mm. Inner diameter 12.75mm.",12.
+B8301236,earrings,"Juste un Clou earrings",2800,"white gold","Juste un Clou hoop earrings, 18K white gold. Width: 1.8mm. Inner diameter 12.75mm.",12.
+B8301211,earrings,"Juste un Clou earrings",4600,"pink gold","Juste un Clou earrings, 18K rose gold. Width: 1.8mm. Inner diameter 40mm.",12.
+B8301212,earrings,"Juste un Clou earrings",7000,"pink gold, diamonds","Juste un Clou earrings, 18K pink gold, set with 28 brilliant-cut diamonds totaling 0.17 carats. Width: 1.8mm. Inner diameter 40mm.",12.
+N8515009,earrings,"Juste un Clou earrings",22900,"pink gold, diamonds","Juste un Clou earrings, 18K pink gold, set with 176 brilliant-cut diamonds totaling 1.26 carats.",12.
+N8515008,earrings,"Juste un Clou earrings",24600,"white gold, diamonds","Juste un Clou earrings, 18K white gold, set with 176 brilliant-cut diamonds totaling 1.26 carats.",12.
+B8301225,earrings,"Juste un Clou earrings",7000,"yellow gold, diamonds","Juste un Clou earrings, 18K yellow gold, set with 28 brilliant-cut diamonds totaling 0.17 carats. Width: 1.8mm. Inner diameter 40mm.",12.
+B8032600,earrings,"Maillon Panthère earrings, 3 diamond-paved rows",13000,"white gold, diamonds","Maillon Panthère earrings, 18K white gold, each set with 36 brilliant-cut diamonds totaling 0.29 carat.",12.
+N8515186,earrings,"Agrafe earrings",25900,"pink gold, diamonds","Agrafe earrings, 18K pink gold, each set with 79 brilliant-cut pavé diamonds totaling 2.77 carats.",12.
+N8515156,earrings,"Agrafe earrings",13100,"pink gold, diamonds","Agrafe earrings, 18K pink gold, onyx, each set with 42 brilliant-cut diamond totaling 1.24 carats.",12.
+N8515187,earrings,"Agrafe earrings",25900,"yellow gold, diamonds","Agrafe earrings, 18K yellow gold, each set with 79 brilliant-cut pavé diamonds totaling 2.77 carats.",12.
+N8515188,earrings,"Agrafe earrings",27700,"white gold, diamonds","Agrafe earrings, 18K white gold, each set with 79 brilliant-cut pavé diamonds totaling 2.77 carats.",12.
+H8000654,earrings,"Pluie de Cartier earrings",68500,"white gold, diamonds","Pluie de Cartier earrings, 18K white gold, each set with 47 brilliant-cut diamonds totaling 4.08 carats and 2 baguette-cut diamonds totaling 0.21 carat.",12.
+B8301408,earrings,"Ecrou de Cartier earrings",5000,"pink gold","Ecrou de Cartier earrings, 18K pink gold.",12.
+N8515135,earrings,"Pluie de Cartier earrings",59000,"white gold, diamonds","Pluie de Cartier earrings, 18K white gold, each set with 6 pear-shaped diamonds totaling 3.52 carats and 12 brilliant-cut diamonds totaling 0.79 carat.",12.
+N8515134,earrings,"Pluie de Cartier earrings",19400,"white gold, diamonds","Pluie de Cartier earrings, 18K white gold, each set with 17 brilliant-cut diamonds totaling 1.92 carats.",12.
+H8000466,earrings,"Pluie de Cartier earrings",32000,"white gold, diamonds","Pluie de Cartier earrings, 18K white gold, each set with 20 brilliant-cut diamonds totaling 2.06 carats.",12.
+B8301416,earrings,"Clash de Cartier earrings Small Model",7500,"pink gold","Clash de Cartier earrings, small model, 18K pink gold. Width: 6.4mm. Inner diameter: 37.8mm",12.
+B8301415,earrings,"Clash de Cartier earrings Small Model",3900,"pink gold","Clash de Cartier earrings, small model, 18K pink gold. Width: 6.4mm. Inner diameter: 16.2mm",12.
+N8515173,earrings,"Clash de Cartier earrings Diamonds",13700,"pink gold, diamonds","Clash de Cartier earrings, 18K pink gold, each set with 14 brilliant-cut diamonds totaling 0.41 carats. Width: 6.8mm. Inner diameter: 16.2mm",12.
+N8515218,earrings,"Clash de Cartier earring Large Model",13700,"pink gold, amazonite","Clash de Cartier earring, large model, 18K pink gold, amazonite.",12.
+N8515174,earrings,"Clash de Cartier earrings XL Model",12500,"yellow gold, coral","Clash de Cartier earrings, XL model, 18K yellow gold, coral. Width: 17.7mm",12.

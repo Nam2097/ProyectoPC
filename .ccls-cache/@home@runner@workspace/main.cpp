@@ -5,6 +5,7 @@
 #include <fstream>
 #include <iomanip>
 #include <iostream>
+#include <limits>
 #include <sstream>
 #include <string>
 #include <vector>
@@ -21,7 +22,11 @@ void imprimirSeparador2() {
   }
   cout << endl;
 }
-
+void limpiarBuffer() {
+  cin.clear();
+  string basura;
+  getline(cin, basura);
+}
 struct producto {
   string nombre;
   string id;
@@ -63,9 +68,33 @@ struct carrito {
   vector<producto> productos;
   int cantidad = 0;
   double total = 0;
-  double descuento;
+  double descuento = 0;
   double iva = 0.19;
 
+  void actualizarTodo() {
+    cantidad = 0;
+    total = 0;
+    for (producto productico : productos) {
+      cantidad += productico.cantidad;
+      total += productico.cantidad * productico.precio;
+    }
+    // si tienen entre 10 y 15 productos,10%
+    // si tienen entre 15 y 20, 15%
+    // mas de 20, 20%
+    if (cantidad < 10) {
+      descuento = 0;
+    } else if (cantidad < 15) {
+      descuento = 0.1;
+    } else if (cantidad < 20) {
+      descuento = 0.15;
+    } else {
+      descuento = 0.2;
+    }
+  }
+
+  double totaltotal() {
+    return total - (total * descuento) + ((total - (total * descuento)) * iva);
+  }
   void mostrarCarrito(int forma = 0) { // 1 para preguntar qué hacer
     int posicion = 1;
     if (productos.empty()) {
@@ -73,6 +102,7 @@ struct carrito {
       imprimirSeparador();
       return;
     }
+    actualizarTodo();
     cout << "Carrito: " << endl << endl;
     for (producto productoDeCarrito : productos) {
       cout << posicion++ << ". ";
@@ -95,25 +125,64 @@ struct carrito {
         cout << "3. Mostrar todas las caracteristicas de un producto" << endl;
         cout << "4. Ir atrás" << endl << endl;
 
-        cin >> decision;
+        if (!(cin >> decision)) {
+          imprimirSeparador();
+          cout << "Opción inválida" << endl;
+          limpiarBuffer();
+          imprimirSeparador();
+          continue;
+        }
         cin.ignore();
 
         if (decision == 1) {
           cout << "Digite el indice correspondiente al producto a borrar:"
                << endl;
           int elementoBorrar;
-          cin >> elementoBorrar;
+          if (!(cin >> elementoBorrar)) {
+            imprimirSeparador();
+            cout << "Índice inválido" << endl;
+            limpiarBuffer();
+            imprimirSeparador();
+            continue;
+          }
           cin.ignore();
           if (elementoBorrar >= 1 && elementoBorrar <= productos.size()) {
-            productos.erase(productos.begin() + elementoBorrar - 1);
+
+            if (productos[elementoBorrar - 1].cantidad == 1) {
+              total -= productos[elementoBorrar - 1].precio;
+              cantidad -= 1;
+              productos.erase(productos.begin() + elementoBorrar - 1);
+            } else {
+              cout << "¿Qué cantidad de ese elemento desea eliminar?" << endl;
+              int cantidad2;
+              while (!(cin >> cantidad2) || cantidad2 <= 0 ||
+                     cantidad2 > productos[elementoBorrar - 1].cantidad) {
+                imprimirSeparador();
+                cout << "Cantidad inválida" << endl
+                     << "Ingrese una cantidad válida:" << endl;
+                limpiarBuffer();
+              }
+              if (cantidad2 == productos[elementoBorrar - 1].cantidad) {
+                total -= productos[elementoBorrar - 1].precio * cantidad2;
+                cantidad -= cantidad2;
+                productos.erase(productos.begin() + elementoBorrar - 1);
+              } else {
+                total -= productos[elementoBorrar - 1].precio * cantidad2;
+                cantidad -= cantidad2;
+                productos[elementoBorrar - 1].cantidad -= cantidad2;
+              }
+            }
             cout << "Producto #" << elementoBorrar << " borrado." << endl;
             imprimirSeparador();
           } else {
-            cout << "Índice no válido" << endl;
+            imprimirSeparador();
+            cout << "Índice inválido" << endl;
             imprimirSeparador();
           }
         } else if (decision == 2) {
           productos.clear();
+          total = 0;
+          cantidad = 0;
           imprimirSeparador();
           cout << "Carrito eliminado con éxito." << endl;
           imprimirSeparador();
@@ -123,7 +192,13 @@ struct carrito {
                   "características:"
                << endl;
           int elementoConocer;
-          cin >> elementoConocer;
+          if (!(cin >> elementoConocer)) {
+            imprimirSeparador();
+            cout << "Índice inválido" << endl;
+            limpiarBuffer();
+            imprimirSeparador();
+            continue;
+          }
           cin.ignore();
           if (elementoConocer >= 1 && elementoConocer <= productos.size()) {
             imprimirSeparador();
@@ -131,7 +206,10 @@ struct carrito {
             productos[elementoConocer - 1].mostrarProductoCompleto();
 
           } else {
-            cout << "Índice no válido" << endl;
+            imprimirSeparador();
+            cout << "Índice inválido" << endl;
+            imprimirSeparador();
+            continue;
           }
           imprimirSeparador();
         } else if (decision == 4) {
@@ -148,6 +226,7 @@ struct carrito {
 
   void añadirProducto(producto producto) {
     total += producto.precio;
+    cantidad += 1;
     if (productos.empty()) {
       productos.push_back(producto);
       return;
@@ -156,7 +235,7 @@ struct carrito {
         if (productos[i].id == producto.id) {
           productos[i].cantidad += 1;
           return;
-        } else if (i==productos.size()-1) {
+        } else if (i == productos.size() - 1) {
           // cout<<"."<<productos[i].id<<"."
           productos.push_back(producto);
           return;
@@ -167,8 +246,8 @@ struct carrito {
 
   void quitarProducto(producto producto) {
 
-    total += producto.precio;
-    cantidad += 1;
+    total -= producto.precio;
+    cantidad -= 1;
   }
 };
 
@@ -240,7 +319,7 @@ void GuardarCarrito(vector<producto> carrito, string arch) {
         else
           archivo << tag;
       }
-      archivo << "\",\"" << p.descripcion << "\"," << p.cantidad <<"."<< endl;
+      archivo << "\",\"" << p.descripcion << "\"," << p.cantidad << "." << endl;
     }
   }
 }
@@ -291,6 +370,7 @@ carrito LeerCarrito(string nombrearchivo) {
       stringstream ss2(tag);
       while (getline(ss2, tagg, ','))
         tags.push_back(tagg);
+      ss.ignore();
       ss.ignore();
       getline(ss, descripcion, '"');
       ss.ignore();
@@ -344,27 +424,51 @@ vector<producto> FiltrarProductos(
   string categorian, tagar, nombreBuscado, idBuscado;
   switch (x) {
   case 1:
-    cout << "Ingrese un precio minimo" << endl;
-    cin >> min;
-    cout << "Ingrese un precio maximo" << endl;
-    cin >> max;
+    cout << "Ingrese un precio minimo:" << endl;
+    while (!(cin >> min) || min < 0) {
+      imprimirSeparador();
+      cout << "Opción inválida" << endl << "Ingrese un precio minimo:" << endl;
+      limpiarBuffer();
+    }
+    cout << "Ingrese un precio maximo:" << endl;
+    while (!(cin >> max) || max < min) {
+      imprimirSeparador();
+      cout << "Opción inválida" << endl << "Ingrese un precio maximo:" << endl;
+      limpiarBuffer();
+    }
     break;
   case 2:
     cout << "Ingrese una categoria" << endl;
     getline(cin, categorian);
+    while (categorian.empty()) {
+      cout << "Ingrese una categoria valida" << endl;
+      getline(cin, categorian);
+    }
     break;
   case 3:
     cout << "Ingrese un tag" << endl;
     getline(cin, tagar);
+    while (tagar.empty()) {
+      cout << "Ingrese un tag valido" << endl;
+      getline(cin, tagar);
+    }
     break;
   case 4:
     cout << "Ingrese un nombre" << endl;
     getline(cin, nombreBuscado);
+    while (nombreBuscado.empty()) {
+      cout << "Ingrese un nombre valido" << endl;
+      getline(cin, nombreBuscado);
+    }
     break;
   case 5:
     cout << "Ingrese un id" << endl;
     getline(cin, idBuscado);
-    cout << idBuscado << endl;
+    while (idBuscado.empty()) {
+      cout << "Ingrese un id valido" << endl;
+      getline(cin, idBuscado);
+    }
+    // cout << idBuscado << endl;
     break;
   default:
     cout << "No se pudo abrir el archivo." << endl;
@@ -593,26 +697,48 @@ ReFiltrarProductos(vector<producto> joyas,
   switch (x) {
   case 1:
     cout << "Ingrese un precio minimo" << endl;
-    cin >> min;
+    while (!(cin >> min) || min < 0) {
+      imprimirSeparador();
+      cout << "Opción inválida" << endl << "Ingrese un precio minimo:" << endl;
+      limpiarBuffer();
+    }
     cout << "Ingrese un precio maximo" << endl;
-    cin >> max;
+    while (!(cin >> max) || max < min) {
+      imprimirSeparador();
+      cout << "Opción inválida" << endl << "Ingrese un precio maximo:" << endl;
+      limpiarBuffer();
+    }
     break;
   case 2:
     cout << "Ingrese una categoria" << endl;
     getline(cin, categorian);
+    while (categorian.empty()) {
+      cout << "Ingrese una categoria valida" << endl;
+      getline(cin, categorian);
+    }
     break;
   case 3:
     cout << "Ingrese un tag" << endl;
     getline(cin, tagar);
+    while (tagar.empty()) {
+      cout << "Ingrese un tag valido" << endl;
+      getline(cin, tagar);
+    }
     break;
   case 4:
     cout << "Ingrese un nombre" << endl;
     getline(cin, nombreBuscado);
+    while (nombreBuscado.empty()) {
+      cout << "Ingrese un nombre valido" << endl;
+      getline(cin, nombreBuscado);
+    }
     break;
   case 5:
     cout << "Ingrese un id" << endl;
     getline(cin, idBuscado);
-    cout << idBuscado << endl;
+    while (idBuscado.empty()) {
+      cout << "Ingrese un id valido" << endl;
+    }
     break;
   default:
     cout << "No se pudo abrir el archivo." << endl;
@@ -682,7 +808,7 @@ ReFiltrarProductos(vector<producto> joyas,
   case 2:
   case 3:
     if (encontrado == false) {
-      cout << "No hay ningun producto que cumpla con esas                "
+      cout << "No hay ningun producto que cumpla con esas "
               "caracteristicas."
            << endl;
       productoEncontrado.id = "N/A";
@@ -692,7 +818,7 @@ ReFiltrarProductos(vector<producto> joyas,
       productoEncontrado.tags = {"N/A"};
       productoEncontrado.descripcion = "N/A";
       productoEncontrado.nombreEncontrado = false;
-      productosEncontrados.push_back(productoEncontrado);
+      // productosEncontrados.push_back(productoEncontrado);
       return productosEncontrados;
     }
     if (productosEncontrados.size() == 1) {
@@ -772,7 +898,7 @@ ReFiltrarProductos(vector<producto> joyas,
     return productosEncontrados;
     break;
   default:
-    cout << "No se pudo abrir el archivo." << endl;
+    cout << "No se pudo hacer el filtro." << endl;
     producto productoEncontrado;
     vector<producto> productosEncontrados;
     productoEncontrado.nombreEncontrado = false;
@@ -784,59 +910,60 @@ ReFiltrarProductos(vector<producto> joyas,
 // Funcion para añadir producto desde la lista
 void añadirProducto(vector<producto> filtrados, carrito *carrito) {
   int conf;
-
   while (true) {
-    cout << "¿Desea agregar un producto de la lista al carrito?" << endl
+    int x;
+    cout << "Ingrese el índice del producto que desea añadir:" << endl;
+    while (!(cin >> x)) {
+      imprimirSeparador();
+      cout << "Índice inválido" << endl
+           << "Ingrese el índice del producto que desea añadir:" << endl;
+      limpiarBuffer();
+    }
+
+    cin.ignore();
+
+    if (x > 0 && x <= filtrados.size()) {
+      cout << "Cuantos productos desea añadir?" << endl;
+      int cantidad;
+      while (!(cin >> cantidad) || cantidad <= 0) {
+        imprimirSeparador();
+        cout << "Opción inválida" << endl
+             << "Ingrese una cantidad válida:" << endl;
+        limpiarBuffer();
+      }
+      cin.ignore();
+      for (int i = 0; i < cantidad; i++) {
+        (*carrito).añadirProducto(filtrados[x - 1]);
+      }
+      if (cantidad == 1) {
+        cout << "Producto añadido al carrito." << endl;
+      } else
+        cout << "Productos añadidos al carrito." << endl;
+      imprimirSeparador();
+    } else {
+      imprimirSeparador();
+      cout << "Índice inválido." << endl;
+      continue;
+    }
+
+    cout << "¿Desea añadir otro producto?" << endl
          << "1. Sí" << endl
          << "2. No" << endl;
-    cin >> conf;
+    if (!(cin >> conf)) {
+      imprimirSeparador();
+      cout << "Opción inválida" << endl;
+      limpiarBuffer();
+      return;
+    }
     cin.ignore();
 
     if (conf == 2) {
       imprimirSeparador();
       return;
     } else if (conf != 1) {
+      imprimirSeparador();
       cout << "Opción inválida." << endl;
       return;
-    }
-
-    while (true) {
-      int x;
-      cout << "Ingrese el número del producto que desea añadir:" << endl;
-      cin >> x;
-      cin.ignore();
-
-      if (x > 0 && x <= filtrados.size()) {
-        cout << "Cuantos productos desea añadir?" << endl;
-        int cantidad;
-        cin >> cantidad;
-        cin.ignore();
-        for (int i = 0; i < cantidad; i++) {
-          (*carrito).añadirProducto(filtrados[x - 1]);
-        }
-        if (cantidad == 1) {
-          cout << "Producto añadido al carrito." << endl;
-        } else
-          cout << "Productos añadidos al carrito." << endl;
-        imprimirSeparador();
-      } else {
-        cout << "Índice inválido." << endl;
-        continue;
-      }
-
-      cout << "¿Desea añadir otro producto?" << endl
-           << "1. Sí" << endl
-           << "2. No" << endl;
-      cin >> conf;
-      cin.ignore();
-
-      if (conf == 2) {
-        imprimirSeparador();
-        return;
-      } else if (conf != 1) {
-        cout << "Opción inválida." << endl;
-        return;
-      }
     }
   }
 }
@@ -910,38 +1037,48 @@ vector<producto> MostrarTodosLosProductos() {
   return productos;
 }
 void conocerCaracteristicas(vector<producto> filtrados, carrito *carrito) {
-  char conf;
-  cout << "Desea ver las caracteristicas de algun producto? Y/N" << endl;
-  cin >> conf;
-  cin.ignore();
+  int conf = 1;
   while (true) {
-    if (conf == 'Y' || conf == 'y') {
-      int x;
-      cout << "Ingrese el numero del producto del cual desee ver las "
-              "caracteristicas"
-           << endl;
-      cin >> x;
-      cin.ignore();
-      filtrados[x - 1].mostrarDescripcion();
-      cout << "Desea ver las caracteristicas de otro producto? Y/N" << endl;
-      cin >> conf;
-      cin.ignore();
-      while (conf == 'Y' || conf == 'y') {
-        cout << "Ingrese el numero del producto del cual desee ver las "
-                "caracteristicas"
-             << endl;
-        cin >> x;
-        cin.ignore();
-        filtrados[x - 1].mostrarDescripcion();
-        cout << "Desea ver las caracteristicas de otro producto? Y/N" << endl;
-        cin >> conf;
-        cin.ignore();
-      }
-    } else if (!(conf == 'Y' || conf == 'y' || conf == 'N' || conf == 'n'))
-      cout << "Ingrese un caracter valido" << endl;
-    else if (conf == 'N' || conf == 'n') {
-      return;
+    int x;
+    cout << "Ingrese el numero del producto del cual desee ver las "
+            "caracteristicas:"
+         << endl;
+    if (!(cin >> x)) {
+      imprimirSeparador();
+      cout << "Opción inválida" << endl;
+      limpiarBuffer();
+      imprimirSeparador();
+      continue;
     }
+    cin.ignore();
+    if (x > 0 && x <= filtrados.size()) {
+      cout << x << ". ";
+      filtrados[x - 1].mostrarProductoCompleto();
+      cout << endl;
+    } else {
+      imprimirSeparador();
+      cout << "Índice inválido" << endl;
+      imprimirSeparador();
+      continue;
+    }
+    if (conf == 1) {
+      cout << "Desea ver las caracteristicas de otro producto?" << endl
+           << "1. Sí" << endl
+           << "2. No" << endl
+           << endl;
+      if (!(cin >> conf)) {
+        imprimirSeparador();
+        cout << "Opción inválida" << endl;
+        limpiarBuffer();
+        imprimirSeparador();
+        continue;
+      }
+      cin.ignore();
+      if (conf == 2) {
+        return;
+      }
+    } else if (!(conf == 1 || conf == 2))
+      cout << "Ingrese un caracter valido" << endl;
   }
 }
 
@@ -955,7 +1092,13 @@ void afterProducto(vector<producto> productosFiltrados, carrito *elCarrito) {
          << "4. Aplicar otro filtro." << endl
          << "5. Regresar." << endl
          << endl;
-    cin >> decision;
+    if (!(cin >> decision)) {
+      imprimirSeparador();
+      cout << "Opción inválida" << endl;
+      limpiarBuffer();
+      imprimirSeparador();
+      continue;
+    }
     cin.ignore();
     imprimirSeparador();
     switch (decision) {
@@ -981,7 +1124,13 @@ void afterProducto(vector<producto> productosFiltrados, carrito *elCarrito) {
            << "5. ID" << endl
            << endl;
       int decision2;
-      cin >> decision2;
+      if (!(cin >> decision2)) {
+        imprimirSeparador();
+        cout << "Opción inválida" << endl;
+        limpiarBuffer();
+        imprimirSeparador();
+        break;
+      }
       cin.ignore();
       if (decision >= 1 && decision <= 5) {
         ReFiltrarProductos(productosFiltrados, decision2);
@@ -996,6 +1145,7 @@ void afterProducto(vector<producto> productosFiltrados, carrito *elCarrito) {
       return;
     default:
       cout << "Opción inválida" << endl;
+      imprimirSeparador();
     }
   }
 }
@@ -1015,7 +1165,14 @@ void busquedaEnTienda(int estado, usuario *elUsuario, carrito *elCarrito) {
     cout << "7. Mostrar carrito" << endl;
     cout << "8. Finalizar compra" << endl;
     cout << "9. Regresar al menú principal" << endl;
-    cin >> proximoEstado;
+    if (!(cin >> proximoEstado)) {
+      imprimirSeparador();
+      cout << "Opción inválida" << endl;
+      limpiarBuffer();
+      imprimirSeparador();
+      proximoEstado = 1;
+      break;
+    }
     cin.ignore();
     if (proximoEstado >= 1 && proximoEstado <= 9) {
       proximoEstado++;
@@ -1089,10 +1246,17 @@ void menu(int estado, usuario *elUsuario, carrito *elCarrito) {
   case 1: // menu principal
     cout << "¡Bienvenido a la tienda Cartier Jewelry!" << endl;
     cout << "Seleccione una opción:" << endl;
-    cout << "1. Registro de cliente" << endl;
+    cout << "1. Registro/Inicio de sesión" << endl;
     cout << "2. Entrar a la tienda" << endl;
     cout << "3. Salir de la tienda" << endl << endl;
-    cin >> proximoEstado;
+    if (!(cin >> proximoEstado)) {
+      imprimirSeparador();
+      cout << "Opción inválida" << endl;
+      limpiarBuffer();
+      proximoEstado = 1;
+      imprimirSeparador();
+      break;
+    }
     cin.ignore();
     if (proximoEstado == 1 || proximoEstado == 2 || proximoEstado == 3) {
       proximoEstado++;
@@ -1110,7 +1274,14 @@ void menu(int estado, usuario *elUsuario, carrito *elCarrito) {
            << "1. Sí" << endl
            << "2. No" << endl;
       int registrado;
-      cin >> registrado;
+      if (!(cin >> registrado)) {
+        imprimirSeparador();
+        cout << "Opción inválida" << endl;
+        limpiarBuffer();
+        imprimirSeparador();
+        proximoEstado = 2;
+        break;
+      }
       cin.ignore();
       imprimirSeparador();
       if (registrado == 1) { // El usuario está registrado
@@ -1170,7 +1341,14 @@ void menu(int estado, usuario *elUsuario, carrito *elCarrito) {
       cout << "1. Revisar datos." << endl;
       cout << "2. Actualizar datos existentes." << endl;
       cout << "3. Cerrar sesión." << endl;
-      cin >> opcionRegistro;
+      if (!(cin >> opcionRegistro)) {
+        imprimirSeparador();
+        cout << "Opción inválida" << endl;
+        limpiarBuffer();
+        imprimirSeparador();
+        proximoEstado = 2;
+        break;
+      }
       cin.ignore();
       imprimirSeparador();
       switch (opcionRegistro) {
@@ -1228,6 +1406,7 @@ void menu(int estado, usuario *elUsuario, carrito *elCarrito) {
     break;
   default:
     cout << "No pasó por ningun switch del menú :(" << endl;
+    cout << proximoEstado;
     return;
   }
 
@@ -1268,7 +1447,8 @@ void imprimirFactura(usuario usuario) {
     cout << producto.id << "|" << producto.nombre
          << setw((40 - producto.nombre.size())) << "|" << producto.cantidad
          << "   "
-         << "|" << fixed << setprecision(2) << producto.precio << endl;
+         << "|" << fixed << setprecision(2)
+         << (producto.precio * producto.cantidad) << endl;
   }
 
   imprimirSeparador2();
@@ -1276,9 +1456,7 @@ void imprimirFactura(usuario usuario) {
   cout << "Total sin descuento: " << fixed << setprecision(2)
        << usuario.carrito.total << endl;
   cout << "Descuento: " << usuario.carrito.descuento * 100 << "%" << endl;
-  cout << "Total: " << fixed << setprecision(2)
-       << usuario.carrito.total -
-              (usuario.carrito.total * usuario.carrito.descuento)
+  cout << "Total: " << fixed << setprecision(2) << usuario.carrito.totaltotal()
        << endl;
 
   imprimirSeparador2();
